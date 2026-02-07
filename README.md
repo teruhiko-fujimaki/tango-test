@@ -1,16 +1,61 @@
-# React + Vite
+# 英単語学習アプリ (Vocabulary Learning App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+小学生・中学生向けのシンプルな英単語学習Webアプリケーションです。CSVデータから単語を読み込み、学習範囲を指定して効率的に学習を進めることができます。
 
-Currently, two official plugins are available:
+## 機能一覧
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*   **レベル別コース選択**: 「小学生単語」「中学生単語」から選択して学習できます。
+*   **範囲指定学習**: 単語IDの範囲（Start 〜 End）を指定して、集中的に学習できます。
+*   **答え合わせ機能**: デフォルトでは英単語のみが表示され、学習後にまとめて日本語訳（答え）を表示できます。
+*   **見直しリスト**: 覚えられなかった単語を「保存」し、専用のリストで後から重点的に復習できます。
 
-## React Compiler
+## 使い方
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. ログイン
+アプリを起動するとログイン画面が表示されます。任意の**ユーザーID**（名前など）を入力して「ログイン」ボタンを押してください。
+※ パスワードは現在のバージョンでは使用されていませんが、将来的な機能拡張のためにフィールドが存在します。
 
-## Expanding the ESLint configuration
+### 2. コース選択
+ログイン後、学習したいコースを選択します。
+*   **小学生単語**: 基本的な英単語
+*   **中学生単語**: 発展的な英単語
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 3. 学習の進め方（クイズ画面）
+1.  **範囲の設定**:
+    画面上部の「Start」と「End」に、学習したい単語IDの番号を入力します。
+    （例: Start: 1, End: 10 と入力すると、ID 1から10番までの単語が表示されます）
+2.  **表示**:
+    「表示」ボタンを押すと、指定した範囲の英単語一覧が表示されます。この時点では日本語訳は隠されています。
+3.  **学習**:
+    表示された英単語を見て、意味を答える練習をします。
+4.  **答え合わせ**:
+    学習が終わったら、画面右上の「終了」ボタンを押します。確認ダイアログで「OK」を選択すると、隠されていた日本語訳が表示されます。
+
+### 4. 苦手単語の保存と復習
+*   **保存**:
+    答えを表示した後、覚えられていなかった単語の横にある「保存」ボタンを押すと、その単語が「見直しリスト」に追加されます。
+*   **見直し**:
+    画面右上の「見直し帳」リンクをクリックすると、保存した単語の一覧を確認できます。覚えた単語は「削除」ボタンでリストから外すことができます。
+
+## 開発環境のセットアップ
+
+このプロジェクトをローカルで実行するには、以下の手順に従ってください。
+
+### 前提条件
+*   Node.js がインストールされていること
+
+### インストール
+
+```bash
+# 依存関係のインストール
+npm install
+```
+
+### 実行
+
+```bash
+# 開発サーバーの起動
+npm run dev
+```
+
+ブラウザで `http://localhost:5173` （または表示されたURL）にアクセスしてください。
