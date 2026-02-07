@@ -1,0 +1,2511 @@
+id,word,meaning,level
+1,answer,～に答える,elementary
+2,ate,eat の過去形,elementary
+3,brush,～を磨く,elementary
+4,buy,～を買う,elementary
+5,check,～を調べる,elementary
+6,clean,～を掃除する、きれいな,elementary
+7,cook,（～を）料理する、料理人,elementary
+8,dance,（～を）踊る,elementary
+9,do,～をする、［疑問文と応答に用いる］,elementary
+10,draw,（～を）描く,elementary
+11,drink,～を飲む、飲みもの,elementary
+12,eat,～を食べる,elementary
+13,enjoy,～を楽しむ,elementary
+14,get,～を得る、～になる,elementary
+15,go,行く,elementary
+16,have,～を持っている,elementary
+17,help,～を手伝う,elementary
+18,join,～に参加する,elementary
+19,jump,跳ぶ,elementary
+20,leave,（～を）出発する、～を残す,elementary
+21,like,～を好む,elementary
+22,listen,聞く,elementary
+23,look,見る,elementary
+24,make,～をつくる,elementary
+25,meet,～に会う,elementary
+26,play,～をする、～を弾く,elementary
+27,practice,練習する、練習,elementary
+28,put,～を置く,elementary
+29,read,（～を）読む,elementary
+30,ride,～に乗る,elementary
+31,run,走る,elementary
+32,saw,see の過去形,elementary
+33,see,～を見る、～に会う,elementary
+34,sing,（～を）歌う,elementary
+35,sit,すわる,elementary
+36,skate,スケートをする,elementary
+37,ski,スキーをする,elementary
+38,snowboard,スノーボードをする,elementary
+39,speak,（～を）話す,elementary
+40,spell,～をつづる,elementary
+41,start,～を始める,elementary
+42,stop,～を止める,elementary
+43,study,（～を）勉強する,elementary
+44,swim,泳ぐ,elementary
+45,take,～をとる、（ふろに）入る,elementary
+46,teach,～を教える,elementary
+47,thank,～に感謝する,elementary
+48,think,～と思う、考える,elementary
+49,try,（～を）試す,elementary
+50,turn,曲がる,elementary
+51,visit,～を訪れる,elementary
+52,walk,歩く、～を散歩させる,elementary
+53,want,~がほしい,elementary
+54,wash,～を洗う,elementary
+55,watch,～を見る、腕時計,elementary
+56,went,goの過去形,elementary
+57,write,～を書く,elementary
+58,active,活発な,elementary
+59,again,もう一度、再び,elementary
+60,always,いつでも,elementary
+61,at,～に,elementary
+62,beautiful,美しい,elementary
+63,best,最もよい,elementary
+64,big,大きい,elementary
+65,busy,忙しい,elementary
+66,by,～のそばに,elementary
+67,cloudy,曇った,elementary
+68,cold,冷たい、寒い,elementary
+69,cool,すずしい、かっこいい,elementary
+70,cute,かわいい,elementary
+71,delicious,おいしい,elementary
+72,down,下に［へ］,elementary
+73,exciting,わくわくさせるような,elementary
+74,famous,有名な,elementary
+75,fast,速く,elementary
+76,favorite,お気に入りの,elementary
+77,fine,元気な,elementary
+78,fresh,新鮮な,elementary
+79,friendly,友達にふさわしい、親切な,elementary
+80,from,～出身の、～から,elementary
+81,fun,おもしろさ、楽しい,elementary
+82,funny,おもしろい,elementary
+83,good,よい、じょうずな,elementary
+84,great,すばらしい,elementary
+85,happy,幸せな,elementary
+86,hard,一生懸命に、困難な,elementary
+87,here,ここに［で］,elementary
+88,high,高い,elementary
+89,hot,暑い、熱い,elementary
+90,hungry,空腹な,elementary
+91,in,～（の中）に,elementary
+92,interesting,おもしろい,elementary
+93,kind,親切な,elementary
+94,left,左（へ）,elementary
+95,long,長い,elementary
+96,many,たくさんの,elementary
+97,much,たいへん、たくさん,elementary
+98,never,決して～しない,elementary
+99,new,新しい,elementary
+100,nice,よい、すてきな,elementary
+101,old,古い、年老いた,elementary
+102,on,～（の上）に,elementary
+103,popular,人気がある,elementary
+104,rainy,雨の、雨降りの,elementary
+105,really,本当に,elementary
+106,right,右（へ）、正しい,elementary
+107,sad,悲しい,elementary
+108,short,短い,elementary
+109,sleepy,眠い、眠そうな,elementary
+110,small,小さい,elementary
+111,smart,賢い,elementary
+112,snowy,雪の降る,elementary
+113,soft,柔らかい,elementary
+114,sometimes,ときどき,elementary
+115,straight,まっすぐ,elementary
+116,strong,強い,elementary
+117,sunny,晴れた,elementary
+118,sweet,甘い,elementary
+119,tired,疲れた,elementary
+120,under,～の（真）下の［に］,elementary
+121,up,上に［へ］,elementary
+122,usually,ふつうは,elementary
+123,very,とても、非常に,elementary
+124,well,じょうずに,elementary
+125,wonderful,すばらしい,elementary
+126,coffee,コーヒー,elementary
+127,green tea,緑茶,elementary
+128,juice,ジュース,elementary
+129,milk,牛乳,elementary
+130,mineral water,ミネラル・ウォーター,elementary
+131,tea,お茶、紅茶,elementary
+132,water,水,elementary
+133,apple,リンゴ,elementary
+134,banana,バナナ,elementary
+135,beef,牛肉,elementary
+136,bread,パン,elementary
+137,breakfast,朝食,elementary
+138,cabbage,キャベツ,elementary
+139,cake,ケーキ,elementary
+140,carrot,ニンジン,elementary
+141,cheese,チーズ,elementary
+142,cherry,サクランボ,elementary
+143,chocolate,チョコレート,elementary
+144,corn,トウモロコシ,elementary
+145,cucumber,キュウリ,elementary
+146,curry,カレー,elementary
+147,curry and rice,カレーライス,elementary
+148,dessert,デザート,elementary
+149,dinner,夕食,elementary
+150,egg,卵,elementary
+151,food,食べもの,elementary
+152,French fries,フライド・ポテト,elementary
+153,fried chicken,フライド・チキン,elementary
+154,fruit,くだもの,elementary
+155,grape,ブドウ,elementary
+156,green pepper,ピーマン,elementary
+157,hamburger,ハンバーガー,elementary
+158,ice cream,アイス・クリーム,elementary
+159,jam,ジャム,elementary
+160,kiwi fruit,キウイ・フルーツ,elementary
+161,lemon,レモン,elementary
+162,lettuce,レタス,elementary
+163,lunch,昼食,elementary
+164,melon,メロン,elementary
+165,menu,メニュー,elementary
+166,mushroom,キノコ,elementary
+167,noodle,麺類,elementary
+168,nut,木の実、ナッツ,elementary
+169,omelet,オムレツ,elementary
+170,onion,タマネギ,elementary
+171,orange,オレンジ、オレンジ色 （の）,elementary
+172,parfait,パフェ,elementary
+173,peach,モモ,elementary
+174,pie,パイ,elementary
+175,pineapple,パイナップル,elementary
+176,pizza,ピザ,elementary
+177,popcorn,ポップコーン,elementary
+178,potato,ジャガイモ,elementary
+179,pudding,プリン,elementary
+180,rice,米、ごはん,elementary
+181,rice ball,おにぎり,elementary
+182,salad,サラダ,elementary
+183,sandwich,サンドイッチ,elementary
+184,sausage,ソーセージ,elementary
+185,shaved ice,かき氷,elementary
+186,snack,軽食,elementary
+187,soup,スープ,elementary
+188,spaghetti,スパゲッティ,elementary
+189,steak,ステーキ,elementary
+190,strawberry,イチゴ,elementary
+191,tomato,トマト,elementary
+192,vegetable,野菜,elementary
+193,watermelon,スイカ,elementary
+194,activity,活動,elementary
+195,art,美術、芸術,elementary
+196,arts and crafts,図工,elementary
+197,calligraphy,書写、書道,elementary
+198,chair,いす,elementary
+199,class,授業、クラス,elementary
+200,classroom,教室,elementary
+201,club,～部、クラブ,elementary
+202,club activity,部活動,elementary
+203,desk,机,elementary
+204,drama,演劇、ドラマ,elementary
+205,English,英語（の）,elementary
+206,entrance ceremony,入学式,elementary
+207,eraser,消しゴム,elementary
+208,field trip,校外見学,elementary
+209,glue,のり,elementary
+210,graduation ceremony,卒業式,elementary
+211,gym,体育館,elementary
+212,hint,ヒント,elementary
+213,home economics,家庭科,elementary
+214,homework,宿題,elementary
+215,Japanese,国語、日本語（の）,elementary
+216,jump rope,縄跳び（の縄）,elementary
+217,junior high school,中学校,elementary
+218,lesson,課,elementary
+219,magnet,磁石,elementary
+220,marker,マーカー,elementary
+221,math,算数、数学,elementary
+222,memory,思い出、記憶,elementary
+223,moral education,道徳,elementary
+224,music,音楽,elementary
+225,name,名前,elementary
+226,notebook,ノート,elementary
+227,Ρ.Ε.,体育,elementary
+228,pen,ペン,elementary
+229,pencil,鉛筆,elementary
+230,pencil case,筆入れ,elementary
+231,pencil sharpener,鉛筆削り,elementary
+232,playground,運動場、遊び場,elementary
+233,question,質問、問い,elementary
+234,restroom,トイレ、洗面所,elementary
+235,ruler,定規,elementary
+236,school trip,修学旅行,elementary
+237,science,理科、科学,elementary
+238,scissors,はさみ,elementary
+239,social studies,社会,elementary
+240,stapler,ホッチキス,elementary
+241,stationery,文房具,elementary
+242,subject,教科,elementary
+243,team,チーム,elementary
+244,test,試験,elementary
+245,beach,海辺、浜辺,elementary
+246,bicycle,自転車,elementary
+247,bridge,橋,elementary
+248,bus,バス,elementary
+249,car,車,elementary
+250,city,都市、市、市の,elementary
+251,flower,花,elementary
+252,jet,ジェット機,elementary
+253,lake,湖,elementary
+254,moon,(天体の)月,elementary
+255,mountain,山,elementary
+256,nature,自然,elementary
+257,park,公園,elementary
+258,place,場所,elementary
+259,rain,雨,elementary
+260,rainbow,虹,elementary
+261,river,川,elementary
+262,sea,海,elementary
+263,snow,雪,elementary
+264,street,通り,elementary
+265,sun,太陽,elementary
+266,taxi,タクシー,elementary
+267,town,町,elementary
+268,tree,木,elementary
+269,unicycle,一輪車,elementary
+270,amusement park,遊園地,elementary
+271,aquarium,水族館,elementary
+272,bookstore,書店,elementary
+273,castle,城,elementary
+274,convenience store,コンビニエンス・ストア,elementary
+275,department store,デパート,elementary
+276,fire station,消防署,elementary
+277,gas station,ガソリンスタンド,elementary
+278,hospital,病院,elementary
+279,library,図書館,elementary
+280,museum,博物館、美術館,elementary
+281,office,事務所,elementary
+282,police station,警察署,elementary
+283,post office,郵便局,elementary
+284,restaurant,レストラン,elementary
+285,school,学校,elementary
+286,shop,店,elementary
+287,shrine,神社,elementary
+288,station,駅,elementary
+289,supermarket,スーパーマーケット,elementary
+290,temple,寺,elementary
+291,zoo,動物園,elementary
+292,artist,芸術家,elementary
+293,astronaut,宇宙飛行士,elementary
+294,baker,パン職人,elementary
+295,comedian,コメディアン,elementary
+296,dentist,歯科医,elementary
+297,doctor,医者,elementary
+298,driver,運転手,elementary
+299,farmer,農業経営者,elementary
+300,figure skater,フィギュアスケート選手,elementary
+301,firefighter (=fire fighter),消防士,elementary
+302,flight attendant,客室乗務員,elementary
+303,florist,フローリスト、生花店経営者,elementary
+304,hero,英雄、ヒーロー,elementary
+305,job,職、仕事,elementary
+306,king,王,elementary
+307,nurse,看護師,elementary
+308,nursery school teacher,保育園の先生,elementary
+309,pilot,パイロット,elementary
+310,player,選手、演奏者,elementary
+311,police officer,警察官,elementary
+312,queen,女王,elementary
+313,scientist,科学者,elementary
+314,singer,歌手,elementary
+315,teacher,先生、教師,elementary
+316,vet,獣医,elementary
+317,zookeeper,動物園の飼育係,elementary
+318,bag,バッグ、かばん,elementary
+319,bath,ふろ、入浴,elementary
+320,bed,ベッド,elementary
+321,book,本,elementary
+322,box,箱,elementary
+323,calendar,カレンダー,elementary
+324,cap,(縁なしの) 帽子,elementary
+325,card,カード,elementary
+326,clock,時計,elementary
+327,comic book,マンガ本,elementary
+328,computer,コンピューター,elementary
+329,cooking,料理,elementary
+330,crayon,クレヨン,elementary
+331,cup,カップ,elementary
+332,dish,皿、皿に盛られた料理,elementary
+333,dream,夢,elementary
+334,entrance,入口、玄関,elementary
+335,game,ゲーム、試合,elementary
+336,garbage,くず、生ごみ,elementary
+337,hat,(緑のある) 帽子,elementary
+338,home,家(住んでいる場所),elementary
+339,house,家(建物自体),elementary
+340,ink,インク,elementary
+341,jacket,上着、ジャケット,elementary
+342,life,生活,elementary
+343,mark,マーク、記号,elementary
+344,map,地図,elementary
+345,movie,映画,elementary
+346,news,ニュース,elementary
+347,newspaper,新聞,elementary
+348,pants,ズボン,elementary
+349,picture,絵、写真,elementary
+350,raincoat,レインコート,elementary
+351,room,部屋,elementary
+352,shirt,シャツ,elementary
+353,shoe,靴,elementary
+354,shorts,半ズボン,elementary
+355,song,歌,elementary
+356,sweater,セーター,elementary
+357,table,テーブル,elementary
+358,telephone,電話,elementary
+359,T-shirt,Tシャツ,elementary
+360,TV,テレビ,elementary
+361,umbrella,傘,elementary
+362,weather,天気、天候,elementary
+363,wheelchair,車いす,elementary
+364,black,黒（い）,elementary
+365,blue,青（い）,elementary
+366,brown,茶（色い）,elementary
+367,color,色,elementary
+368,green,緑色（の）,elementary
+369,pink,ピンク色（の）,elementary
+370,purple,紫色（の）,elementary
+371,red,赤（い）,elementary
+372,white,白（い）,elementary
+373,yellow,黄色（い）,elementary
+374,circle,円、丸,elementary
+375,diamond,ひし形,elementary
+376,heart,ハート形,elementary
+377,rectangle,長方形,elementary
+378,square,正方形,elementary
+379,star,星,elementary
+380,triangle,三角形,elementary
+381,autumn,秋,elementary
+382,fall,秋,elementary
+383,season,季節,elementary
+384,spring,春,elementary
+385,Star Festival,七夕,elementary
+386,summer,夏,elementary
+387,vacation,休暇,elementary
+388,winter,冬,elementary
+389,April,4月,elementary
+390,August,8月,elementary
+391,December,12月,elementary
+392,February,2月,elementary
+393,January,1月,elementary
+394,July,7月,elementary
+395,June,6月,elementary
+396,March,3月,elementary
+397,May,5月,elementary
+398,November,11月,elementary
+399,October,10月,elementary
+400,September,9月,elementary
+401,birthday,誕生日,elementary
+402,day,日、1日,elementary
+403,Friday,金曜日,elementary
+404,Monday,月曜日,elementary
+405,month,(年月の)月,elementary
+406,Saturday,土曜日,elementary
+407,Sunday,日曜日,elementary
+408,Thursday,木曜日,elementary
+409,Tuesday,火曜日,elementary
+410,Wednesday,水曜日,elementary
+411,week,週,elementary
+412,year,年、1年,elementary
+413,afternoon,午後,elementary
+414,future,未来,elementary
+415,morning,朝、午前,elementary
+416,night,夜,elementary
+417,time,時間、時期,elementary
+418,America,アメリカ合衆国,elementary
+419,Australia,オーストラリア,elementary
+420,Brazil,ブラジル,elementary
+421,Canada,カナダ,elementary
+422,China,中国,elementary
+423,country,国,elementary
+424,Egypt,エジプト,elementary
+425,France,フランス,elementary
+426,Germany,ドイツ,elementary
+427,India,インド,elementary
+428,Italy,イタリア,elementary
+429,Japan,日本,elementary
+430,Korea,韓国,elementary
+431,Russia,ロシア連邦,elementary
+432,Spain,スペイン,elementary
+433,U.K.,イギリス,elementary
+434,USA,アメリカ合衆国,elementary
+435,world,世界,elementary
+436,animal,動物,elementary
+437,bear,クマ,elementary
+438,bird,鳥,elementary
+439,cat,ネコ,elementary
+440,chicken,ニワトリ、鶏肉,elementary
+441,cow,雌牛,elementary
+442,dog,イヌ,elementary
+443,elephant,ゾウ,elementary
+444,fish,魚,elementary
+445,frog,カエル,elementary
+446,gorilla,ゴリラ,elementary
+447,horse,馬,elementary
+448,koala,コアラ,elementary
+449,lion,ライオン,elementary
+450,monkey,サル,elementary
+451,mouse,ネズミ,elementary
+452,panda,パンダ,elementary
+453,penguin,ペンギン,elementary
+454,pet,ペット,elementary
+455,pig,ブタ,elementary
+456,rabbit,ウサギ,elementary
+457,sheep,羊,elementary
+458,snake,ヘビ,elementary
+459,spider,クモ,elementary
+460,tiger,トラ,elementary
+461,camping,キャンプすること,elementary
+462,cycling,サイクリング,elementary
+463,drum,ドラム、太鼓,elementary
+464,festival,祭り,elementary
+465,firework,花火,elementary
+466,fishing,釣り,elementary
+467,guitar,ギター,elementary
+468,hiking,ハイキング,elementary
+469,jogging,ジョギング,elementary
+470,piano,ピアノ,elementary
+471,picnic,ピクニック,elementary
+472,recorder,リコーダー,elementary
+473,shopping,買いもの,elementary
+474,Snow Festival,雪祭り,elementary
+475,trip,旅行,elementary
+476,violin,バイオリン,elementary
+477,boy,少年,elementary
+478,brother,兄弟、兄、弟,elementary
+479,family,家族,elementary
+480,father,父,elementary
+481,friend,友達,elementary
+482,girl,少女,elementary
+483,grandfather,祖父,elementary
+484,grandmother,祖母,elementary
+485,grandparent,祖父母,elementary
+486,mother,母,elementary
+487,Mr.,（男の人に）～さん,elementary
+488,Ms.,（女の人に）～さん,elementary
+489,sister,姉妹、姉、妹,elementary
+490,ear,耳,elementary
+491,eye,目,elementary
+492,face,顏,elementary
+493,hand,手,elementary
+494,head,頭,elementary
+495,knee,ひざ,elementary
+496,leg,脚,elementary
+497,mouth,口,elementary
+498,nose,鼻,elementary
+499,shoulder,肩,elementary
+500,smile,笑顔,elementary
+501,teeth,歯,elementary
+502,toe,つま先、足の指,elementary
+503,zero,ゼロ,elementary
+504,one,1（の）、〔前に出た名詞をさして〕 1つのもの,elementary
+505,two,2（の）,elementary
+506,three,3（の）,elementary
+507,four,4（の）,elementary
+508,five,5（の）,elementary
+509,six,6（の）,elementary
+510,seven,7（の）,elementary
+511,eight,8（の）,elementary
+512,nine,9（の）,elementary
+513,ten,10（の）,elementary
+514,eleven,11（の）,elementary
+515,twelve,12（の）,elementary
+516,thirteen,13（の）,elementary
+517,fourteen,14（の）,elementary
+518,fifteen,15（の）,elementary
+519,sixteen,16（の）,elementary
+520,seventeen,17（の）,elementary
+521,eighteen,18（の）,elementary
+522,nineteen,19（の）,elementary
+523,twenty,20（の）,elementary
+524,thirty,30（の）,elementary
+525,forty,40（の）,elementary
+526,fifty,50（の）,elementary
+527,sixty,60（の）,elementary
+528,seventy,70（の）,elementary
+529,eighty,80（の）,elementary
+530,ninety,90（の）,elementary
+531,hundred,100（の）,elementary
+532,first,最初（の）,elementary
+533,second,2番目（の）,elementary
+534,third,3番目（の）,elementary
+535,badminton,バドミントン,elementary
+536,ball,ボール,elementary
+537,baseball,野球,elementary
+538,basketball,バスケットボール,elementary
+539,bat,(野球などの) バット,elementary
+540,dodgeball,ドッジボール,elementary
+541,football,(アメリカン) フットボール、サッカー,elementary
+542,glove,グローブ、手袋,elementary
+543,marathon,マラソン,elementary
+544,racket,ラケット,elementary
+545,rugby,ラグビー,elementary
+546,soccer,サッカー,elementary
+547,softball,ソフトボール,elementary
+548,sport,スポーツ,elementary
+549,surfing,サーフィン,elementary
+550,swimming,水泳,elementary
+551,table tennis,卓球,elementary
+552,tennis,テニス,elementary
+553,track and field,陸上競技,elementary
+554,volleyball,バレーボール,elementary
+555,wrestling,レスリング,elementary
+556,a,1つの、1人の,elementary
+557,about,～について,elementary
+558,am,（私は）～である,elementary
+559,an,1つの、1人の〔母音で始まる語の前で〕,elementary
+560,and,～と･･･、そして,elementary
+561,are,～である,elementary
+562,be,"am, are, is の原形",elementary
+563,can,～することができる,elementary
+564,for,～のために［の］,elementary
+565,goodbye,さようなら,elementary
+566,he,彼は［が］,elementary
+567,hello,こんにちは,elementary
+568,hi,（軽いあいさつ）こんにちは,elementary
+569,how,どのように,elementary
+570,I,私は［が］,elementary
+571,is,～である,elementary
+572,it,それは［が］、それを［に］,elementary
+573,let's,～しましょう,elementary
+574,luck,幸運,elementary
+575,me,私を［に］,elementary
+576,my,私の,elementary
+577,no,（返事で）いいえ,elementary
+578,not,～でない,elementary
+579,OK,わかりました,elementary
+580,our,私たちの,elementary
+581,please,どうぞ、お願いします,elementary
+582,she,彼女は［が］,elementary
+583,sorry,〔I'm sorry.[Sorry.] で〕ごめんなさい。,elementary
+584,that,あの、あれ,elementary
+585,the,その,elementary
+586,this,これ、こちら,elementary
+587,to,～に［へ］,elementary
+588,too,～も（また）,elementary
+589,was,"am, is の過去形",elementary
+590,we,私たちは［が］,elementary
+591,welcome,〔You're welcome. で〕 どういたしまして。,elementary
+592,what,何、何の,elementary
+593,when,いつ,elementary
+594,where,どこに［で］,elementary
+595,who,だれ、どんな人,elementary
+596,why,なぜ、どうして,elementary
+597,with,～と（いっしょに）,elementary
+598,yes,（返事で）はい,elementary
+599,you,あなた（たち）は［が］、あなた（たち）に［を］,elementary
+600,your,あなた（たち）の,elementary
+601,a (an),"１つの、１人の
+（すぐ後ろの単語が母音で始まる時は、anを使う）",junior_high
+602,able,※be able to～　　～することができる,junior_high
+603,about,"①（前）～について　　　
+②（副）約、だいたい",junior_high
+604,above,～の上に(へ),junior_high
+605,abroad,外国へ（に、で）、海外へ　　※study abroad　　留学する,junior_high
+606,accept,受入れる,junior_high
+607,accident,事故,junior_high
+608,across,～を横切って、～の向こう側に,junior_high
+609,act,行動する、（役を）演じる,junior_high
+610,action,行動、動き,junior_high
+611,active,活発な,junior_high
+612,activity,活動,junior_high
+613,actor,俳優,junior_high
+614,actually,実際に、実は,junior_high
+615,add,付け加える,junior_high
+616,addition,つけ加えること　　　　　※in addition   加えて、さらに、そのうえ,junior_high
+617,address,あて名、住所,junior_high
+618,adult,大人、成人,junior_high
+619,advantage,有利な立場、利点,junior_high
+620,adventure,冒険,junior_high
+621,advice,忠告、助言、アドバイス,junior_high
+622,afraid,恐れて、こわがって　　 ※be afraid of ～　～を恐れる,junior_high
+623,Africa,アフリカ,junior_high
+624,after,～のあとに　　　            ※after school　放課後,junior_high
+625,afternoon,午後                     　　   ※Good afternoon. こんにちは,junior_high
+626,again,もう一度、また、（否定文で）二度と,junior_high
+627,against,～に対して、～に反対して,junior_high
+628,age,年齢,junior_high
+629,ago,～前に　　　※long ago 　ずっと前に,junior_high
+630,agree,賛成する、同意する   ※ agree with～　　～に賛成する,junior_high
+631,air,空気、大気,junior_high
+632,air conditioner,エアコン,junior_high
+633,airport,空港,junior_high
+634,album,アルバム,junior_high
+635,all,"①（代・形）すべて（の）～、全部（の）　　
+②（副）まったく、すっかり　　　※All right. 　わかました",junior_high
+636,allow,許す,junior_high
+637,almost,ほとんど,junior_high
+638,alone,１人で、ただ～だけで,junior_high
+639,along,（道・川など）に沿って,junior_high
+640,already,すでに、もう,junior_high
+641,also,～もまた、さらに　　※not only ～but also...  ～だけでなく...もまた,junior_high
+642,ALT,外国語指導助手（Assistant Language Teacher の略）,junior_high
+643,although,～だけれど,junior_high
+644,always,いつも、常に,junior_high
+645,am,"～である、（～に）いる、ある （主語が I の時の現在形） 
+ 【活用】 am - was - been    ※am ～ing  ～している",junior_high
+646,a.m.,午前,junior_high
+647,amazing,驚くべき、目を見張らせる,junior_high
+648,America,アメリカ合衆国,junior_high
+649,American,アメリカ(人)の,junior_high
+650,among,～の間に（で、の）、～の中のひとりで,junior_high
+651,and,～と・・・、そして～,junior_high
+652,angry,怒った、怒って,junior_high
+653,animal,動物,junior_high
+654,animation,動画、アニメーション,junior_high
+655,anime,（日本の）アニメ,junior_high
+656,anniversary,記念日、～周年,junior_high
+657,announce,発表する,junior_high
+658,another,"もう一つ（の）、別（の）　　　
+※another cup (piece) of～　～をもう一杯（一つ）",junior_high
+659,answer,答え（る）,junior_high
+660,any,"①（疑問文・条件文で）いくつかの～、何人かの～　
+②（否定文で）１つ（の～）も、１人（の～）も～ない
+③（肯定文で）どんな～も",junior_high
+661,anymore,（否定文・疑問文で）もう～（でない）,junior_high
+662,anyone,"①（肯定文で）誰でも  
+②（疑問文で）誰か",junior_high
+663,anything,"①（肯定文で）何でも  
+②（疑問文で）何か",junior_high
+664,anytime,いつでも,junior_high
+665,anyway,とにかく,junior_high
+666,anywhere,"①（肯定文で）どこにでも
+②（否定文で）どこにも～ない",junior_high
+667,appear,現れる,junior_high
+668,apple,リンゴ,junior_high
+669,April,４月,junior_high
+670,architect,建築家,junior_high
+671,are,"～である、（～に）いる、ある （主語が we, you, they などの複数形の時の現在形） ※are ～ing  ～している、しようとしている　
+【活用】 are - were - been",junior_high
+672,area,地域、地方,junior_high
+673,arm,腕,junior_high
+674,around,"①（前）～のまわりを（まわって）  　※around the world 　世界中
+②（副）～ごろ　　　",junior_high
+675,arrival,到着,junior_high
+676,arrive,到着する,junior_high
+677,art,美術,junior_high
+678,artist,芸術家,junior_high
+679,as," ①（接）～するとき　　
+ ②（接）～なので　　
+ ③（接）～するように
+ ④（接・副）as ～ as … 　…と同じくらい～
+ ⑤（前）～として",junior_high
+680,Asia,アジア,junior_high
+681,Asian,アジアの,junior_high
+682,ask,たずねる、求める　　　※ask for～　～を求める,junior_high
+683,assistant,店員、助手,junior_high
+684,astronaut,宇宙飛行士,junior_high
+685,at,"①（場所・時間の一点）　～に、～で　　
+②～に（向かって）　　　",junior_high
+686,athlete,運動選手、アスリート,junior_high
+687,attack,攻撃する,junior_high
+688,attend,出席する、参加する,junior_high
+689,attention,注意、注目     ※pay attention to～　　～に注意を払う,junior_high
+690,attract,（注意、興味など）を引きつける,junior_high
+691,audience,聴衆、観客,junior_high
+692,August,８月,junior_high
+693,aunt,おば（父母の姉妹）,junior_high
+694,Australia,オーストラリア,junior_high
+695,Australian,オーストラリアの、オーストラリア人（の）,junior_high
+696,autumn,秋,junior_high
+697,average,平均（の）,junior_high
+698,away,離れて、遠くに　　　         ※far away 遠く離れて,junior_high
+699,baby,赤ちゃん                        ※have a baby  赤ちゃんが生まれる,junior_high
+700,back,後ろへ、帰って　　※be back  戻る,junior_high
+701,bad,"悪い　　　※That's too bad. お気の毒に
+【活用】 bad - worse - worst",junior_high
+702,badminton,バドミントン,junior_high
+703,bag,かばん、袋,junior_high
+704,bakery,パン屋,junior_high
+705,balance,釣り合い、バランス,junior_high
+706,ball,ボール、球,junior_high
+707,balloon,風船,junior_high
+708,bamboo,竹,junior_high
+709,banana,バナナ,junior_high
+710,band,バンド、楽団    　※school band / brass band 吹奏楽部,junior_high
+711,bank,銀行,junior_high
+712,baseball,野球,junior_high
+713,basic,基本的な,junior_high
+714,basketball,バスケットボール,junior_high
+715,bath,入浴、ふろ    ※take a bath 入浴する,junior_high
+716,bathroom,浴室、（主にアメリカで）トイレ,junior_high
+717,be,～である、（～に）いる、ある、～になる  （be動詞の原形）,junior_high
+718,beach,浜、浜辺,junior_high
+719,bear,クマ,junior_high
+720,beautiful,美しい、きれいな,junior_high
+721,beauty,美しさ,junior_high
+722,because,（なぜなら）～だから　　 ※because of  ～　　～の理由で,junior_high
+723,become,～になる　　　【活用】 become - became - become,junior_high
+724,bed,ベッド、寝床　　　       　※go to bed  寝る,junior_high
+725,bedroom,寝室,junior_high
+726,beef,牛肉,junior_high
+727,been,beの過去分詞　　      　※have been to　～　　～に行ったことがある,junior_high
+728,before,"①（前・接）～の（～が～する）前に
+②（副）今まで、以前に",junior_high
+729,begin,始まる、始める　　    　【活用】 begin - began - begun,junior_high
+730,beginner,初心者,junior_high
+731,beginning,始まり,junior_high
+732,behind,～の後ろに（の）,junior_high
+733,believe,信じる、～と思う,junior_high
+734,bell,鈴、鐘,junior_high
+735,belong,所属する　　※belong to ～　～の一員である,junior_high
+736,below,下の（に、を）,junior_high
+737,belt,ベルト,junior_high
+738,bench,ベンチ、長いす,junior_high
+739,beside,～のそばに,junior_high
+740,best,"①（形・副）最もよく（い）（good, wellの最上級） 
+【活用】 good (well) - better - best
+②（名）一番よいもの、最善の努力　
+※do (try) one's best  全力を尽くす",junior_high
+741,better,"
+もっとよく（い）、もっと上手く（い）（well, goodの比較級）　
+ 【活用】 well (good) - better - best
+",junior_high
+742,between,（２つの）間に（で）,junior_high
+743,bicycle,自転車（bikeとも言う）,junior_high
+744,big,大きな、大きい,junior_high
+745,bike,自転車（bicycleの略）,junior_high
+746,bird,鳥,junior_high
+747,birthday,誕生日,junior_high
+748,bitter,苦い,junior_high
+749,black,黒（の）,junior_high
+750,blackboard,黒板,junior_high
+751,blind,目の不自由な,junior_high
+752,block,かたまり、ブロック、区画,junior_high
+753,blog,ブログ,junior_high
+754,blow,（風が）吹く,junior_high
+755,blue,青（の）,junior_high
+756,boat,ボート、小舟,junior_high
+757,body,体、肉体,junior_high
+758,boil,ゆでる、沸騰させる,junior_high
+759,bomb,爆弾,junior_high
+760,book,本、書物,junior_high
+761,bookstore,書店,junior_high
+762,border,国境,junior_high
+763,bored,退屈した,junior_high
+764,boring,退屈な,junior_high
+765,born,（bearの過去分詞） 生まれる　   ※be born in ～　～に生まれる,junior_high
+766,borrow,借りる,junior_high
+767,both,両方、両方とも　　※both A and B   AもBも両方,junior_high
+768,bottle,ボトル、びん,junior_high
+769,bottom,底、最下部,junior_high
+770,box,箱,junior_high
+771,boy,男の子、少年,junior_high
+772,brass band,ブラスバンド、吹奏楽,junior_high
+773,brave,勇敢な,junior_high
+774,Brazil,ブラジル,junior_high
+775,bread,パン,junior_high
+776,break,"
+①（動）壊す   【活用】 break - broke - broken
+②（名）休憩、中断
+",junior_high
+777,breakfast,朝食,junior_high
+778,bridge,橋,junior_high
+779,bright,（光が）明るい、ぴかぴか（きらきら）光る,junior_high
+780,bring,（物を）持ってくる   【活用】 bring - brought - brought,junior_high
+781,British,イギリスの、イギリス人（の）,junior_high
+782,brother,（男の）兄弟、兄、弟,junior_high
+783,brown,茶色（の）,junior_high
+784,brush,（ブラシで）みがく,junior_high
+785,build,～を建てる、造る　　【活用】 build - built - built,junior_high
+786,building,建物,junior_high
+787,burn,燃える、燃やす,junior_high
+788,bus,バス,junior_high
+789,bus stop,バス停,junior_high
+790,business,商売、事業,junior_high
+791,busy,忙しい      ※be busy with ～　　　～に忙しい,junior_high
+792,but,しかし、でも　　　　※not A but B  　AでなくてB,junior_high
+793,butter,バター,junior_high
+794,button,（衣服の、機械などの）ボタン,junior_high
+795,buy,買う   【活用】 buy - bought - bought,junior_high
+796,by,"①（方法・手段）～によって　
+②（時間）～までに　
+③（場所）～のそばに",junior_high
+797,cafeteria,カフェテリア、食堂,junior_high
+798,cake,ケーキ,junior_high
+799,calendar,カレンダー、暦,junior_high
+800,call,"①呼ぶ　
+②電話をかける　　　※call (～) back  電話をかけなおす",junior_high
+801,calligraphy,書道,junior_high
+802,camera,カメラ,junior_high
+803,camp,キャンプ（する）,junior_high
+804,can,"①～することができる　　※Can I ～?　～してもよいですか
+    Can you ～?  ～してもらえますか
+②缶",junior_high
+805,Canada,カナダ,junior_high
+806,candle,ろうそく,junior_high
+807,candy,キャンディ,junior_high
+808,cap,（ふちのない）帽子、（びんの）ふた,junior_high
+809,capital,首都,junior_high
+810,capital letter,大文字,junior_high
+811,captain,キャプテン,junior_high
+812,car,車、乗用車,junior_high
+813,card,カード,junior_high
+814,care,"世話（する）、注意（する）　
+※take care of ～　～の世話をする　Take care.　気をつけて",junior_high
+815,career,職業、経歴　※career experience　職業体験学習,junior_high
+816,careful,注意深い、慎重な,junior_high
+817,carefully,注意深く,junior_high
+818,carpenter,大工,junior_high
+819,carrot,ニンジン,junior_high
+820,carry,持っている、持ち歩く、運ぶ   【活用】 carry - carried - carried,junior_high
+821,cartoon,漫画,junior_high
+822,cartoonist,漫画家,junior_high
+823,case,"①ケース、箱　
+②場合",junior_high
+824,castle,城,junior_high
+825,cat,ネコ,junior_high
+826,catch,捕まえる   【活用】 catch - caught - caught,junior_high
+827,cause,（動）～を引き起こす、～の原因となる　　（名）原因,junior_high
+828,CD,compact diskの略,junior_high
+829,celebrate,祝う,junior_high
+830,cellphone,携帯電話,junior_high
+831,cent,セント（アメリカ・オーストラリア・カナダなどの通貨単位）,junior_high
+832,center,中心、真ん中、センター（施設）,junior_high
+833,centimeter,センチメートル,junior_high
+834,century,世紀、１００年,junior_high
+835,chain,くさり,junior_high
+836,chair,いす,junior_high
+837,challenge,挑戦（する）,junior_high
+838,champion,優勝者、チャンピオン,junior_high
+839,championship,選手権（大会）,junior_high
+840,chance,機会、チャンス,junior_high
+841,change,"①（動）変わる、変える　　　
+②（名）つり銭",junior_high
+842,character,"①（小説・劇などの）登場人物　
+②（人の）性格、（物の）特色",junior_high
+843,charge,充電する,junior_high
+844,charity,慈善、チャリティー,junior_high
+845,chart,図表,junior_high
+846,cheap,安価な、安い,junior_high
+847,check,照合する、確認する　　※check out　調べる,junior_high
+848,cheer,元気づける、声援する     ※cheer (～) up   ～を元気づける,junior_high
+849,cheerful,明るい、陽気な,junior_high
+850,cheerfully,明るく、元気よく,junior_high
+851,cheese,チーズ,junior_high
+852,chef,（熟練した）コック、料理長,junior_high
+853,cherry blossom,サクラの花,junior_high
+854,cherry tree,サクラの木,junior_high
+855,chicken,鶏肉,junior_high
+856,child,子ども　　【複数】 children,junior_high
+857,China,中国,junior_high
+858,Chinese,中国の、中国人（の）、中国語（の）,junior_high
+859,chocolate,チョコレート,junior_high
+860,choice,選ぶこと、選択　※make a choice　選択する、選ぶ,junior_high
+861,choose,選ぶ　　【活用】 choose - chose - chosen,junior_high
+862,chopstick,箸,junior_high
+863,chorus,合唱団（部）,junior_high
+864,chorus contest,合唱コンクール,junior_high
+865,Christmas,クリスマス,junior_high
+866,Christmas card,クリスマスカード,junior_high
+867,church,教会,junior_high
+868,circle,円,junior_high
+869,city,市,junior_high
+870,city hall,市役所,junior_high
+871,class,授業、クラス,junior_high
+872,classic,古典的な,junior_high
+873,classmate,クラスメイト、級友,junior_high
+874,classroom,教室,junior_high
+875,clean,"①（動）掃除する　　　
+②（形）きれいな",junior_high
+876,clear,晴れた、（話の内容などが）はっきりした,junior_high
+877,clearly,はっきりと,junior_high
+878,clerk,店員,junior_high
+879,clever,利口な,junior_high
+880,climate,気候,junior_high
+881,climb,登る,junior_high
+882,clinic,診療所,junior_high
+883,clock,（壁に掛ける）時計,junior_high
+884,close,"①（動）閉じる、閉める
+②（形・副）近い（く）、接近した（して）、親しい　
+※close to ～　～の近くに　",junior_high
+885,clothes,衣服、服,junior_high
+886,cloud,雲,junior_high
+887,cloudy,くもりの、くもった,junior_high
+888,club,クラブ、部,junior_high
+889,club activity,部活動,junior_high
+890,coach,コーチ,junior_high
+891,coast,海岸,junior_high
+892,coat,（衣類の）コート,junior_high
+893,coffee,コーヒー,junior_high
+894,coin,硬貨,junior_high
+895,cola,コーラ,junior_high
+896,cold,"①（形）寒い、冷たい　　
+②（名）風邪　　※have a cold  風邪をひいている",junior_high
+897,collect,集める、収集する,junior_high
+898,collection,収集,junior_high
+899,college,（単科）大学,junior_high
+900,color,色,junior_high
+901,colorful,色とりどりの,junior_high
+902,come,"来る　　※come from ～　～出身である、～から生じる、
+come back 戻る　　come in (into) 入る　　
+【活用】 come - came - come",junior_high
+903,comedian,喜劇役者、コメディアン,junior_high
+904,comedy,喜劇,junior_high
+905,comic,（comics で）漫画（の）　　※comic book 漫画本,junior_high
+906,comic book,漫画本,junior_high
+907,comment,意見、コメント　　※make a comment  意見を述べる,junior_high
+908,common,ふつうの、よくある   ※in common　共通の,junior_high
+909,communicate,意思を伝達する、（考え、情報などを）伝える,junior_high
+910,communication,コミュニケーション、意思の疎通,junior_high
+911,community,地域社会、コミュニティー,junior_high
+912,company,会社,junior_high
+913,compare,比較する、比べる,junior_high
+914,computer,コンピューター,junior_high
+915,concert,演奏会、コンサート,junior_high
+916,conclusion,結論,junior_high
+917,condition,状況、状態,junior_high
+918,confident,自信を持った,junior_high
+919,confused,混乱した,junior_high
+920,congratulation,（Congratulations! で）おめでとう,junior_high
+921,connect,つなぐ、つながる,junior_high
+922,connection,接続、つながり、関係,junior_high
+923,contact,（人と）連絡を取る,junior_high
+924,content,内容,junior_high
+925,contest,コンテスト、コンクール,junior_high
+926,continue,続ける、続く,junior_high
+927,control,制御　　　※out of control  制御しきれなくなって,junior_high
+928,convenience,便利、都合,junior_high
+929,convenience store,コンビニエンスストア,junior_high
+930,convenient,便利な、都合のいい,junior_high
+931,cook,"①（動）調理する　
+②（名）料理人",junior_high
+932,cooking,料理（すること）,junior_high
+933,cool,"①涼しい
+②すてきな",junior_high
+934,copy,まねる、写しとる,junior_high
+935,corner,かど,junior_high
+936,correct,正す、直す,junior_high
+937,cost,（費用などが）かかる,junior_high
+938,costume,（民族などの）服装、（舞台の）衣装,junior_high
+939,cotton,木綿,junior_high
+940,cough,せき,junior_high
+941,could,canの過去形　※Could you ～ ?　～してくださいませんか　（Can you ～ ? の丁寧な言い方）,junior_high
+942,count,数える,junior_high
+943,country,国,junior_high
+944,courage,勇気,junior_high
+945,course,進路　　    ※of course もちろん,junior_high
+946,court,（テニスなどの）コート,junior_high
+947,cousin,いとこ,junior_high
+948,cover,～を覆う,junior_high
+949,cow,雌牛（特に乳牛）,junior_high
+950,crane,ツル,junior_high
+951,crash,衝突する,junior_high
+952,create,創作する、作り出す,junior_high
+953,creative,創造力のある,junior_high
+954,cross,（～を）渡る,junior_high
+955,crowded,混雑した、満員の,junior_high
+956,cry,叫ぶ、泣く,junior_high
+957,cucumber,キュウリ,junior_high
+958,culture,習慣、文化,junior_high
+959,cup,茶わん、カップ   ※a cup of ～　カップ一杯の,junior_high
+960,curry,カレー料理　　　※curry and rice  カレーライス,junior_high
+961,custom,風習、習慣,junior_high
+962,customer,客、顧客,junior_high
+963,cut,切る　　※cut off  切り取る　　【活用】 cut - cut - cut,junior_high
+964,cute,かわいらしい、かわいい,junior_high
+965,cycling,サイクリング,junior_high
+966,dad,パパ、お父さん,junior_high
+967,daily,毎日の、日常の,junior_high
+968,damage,～に損害を与える,junior_high
+969,dance,（動）踊る　（名）踊り,junior_high
+970,dancer,踊る人、ダンサー,junior_high
+971,dancing,踊ること,junior_high
+972,danger,危険,junior_high
+973,dangerous,危険な,junior_high
+974,dark,（光がなくて）暗い,junior_high
+975,date,日付、月日,junior_high
+976,daughter,娘,junior_high
+977,day,"①１日、（ある特定の）日  
+②昼間、日中 　 ※one day  ある日
+all day (long)  １日中  the day after tomorrow  あさって
+these days  最近、このごろは",junior_high
+978,dead,死んだ,junior_high
+979,dear,"①（形）親愛なる～（手紙の書きだしに使う） 
+②（間）おや、まあ",junior_high
+980,death,死、死亡,junior_high
+981,December,１２月,junior_high
+982,decide,決心する,junior_high
+983,decision,決断,junior_high
+984,deep,深い、奥の,junior_high
+985,deeply,深く,junior_high
+986,degree Celsius,摂氏,junior_high
+987,delicious,おいしい,junior_high
+988,demonstration,デモ,junior_high
+989,dentist,歯医者,junior_high
+990,department store,デパート,junior_high
+991,departure,出発,junior_high
+992,depend,～による、～次第である　 ※depend on ～　～次第だ、～による,junior_high
+993,depressed,落胆した、元気がない,junior_high
+994,design,デザイン（する）、図案（を作る）、（～を）設計（する）,junior_high
+995,designer,デザイナー、設計者,junior_high
+996,desk,机,junior_high
+997,destroy,破壊する、こわす,junior_high
+998,develop,発展させる、発展する,junior_high
+999,developed,発達した　　　　※developed countries 先進国,junior_high
+1000,developing,発展途上の　　※developing countries 発展途上国,junior_high
+1001,diary,日記,junior_high
+1002,dictionary,辞書、事典,junior_high
+1003,did,doの過去形,junior_high
+1004,die,死ぬ,junior_high
+1005,difference,違い、違うこと,junior_high
+1006,different,違った、いろいろな　　※be different from ～　～と違っている,junior_high
+1007,differently,（～と）異なって,junior_high
+1008,difficult,難しい、困難な,junior_high
+1009,difficulty,難しさ、困難、苦労,junior_high
+1010,dining room,食堂、ダイニングルーム,junior_high
+1011,dinner,ディナー、夕食,junior_high
+1012,disagree,意見が合わない、賛成しない,junior_high
+1013,disappear,見えなくなる、消えうせる,junior_high
+1014,disappointed,がっかりした,junior_high
+1015,disaster,災害,junior_high
+1016,discount,割引,junior_high
+1017,discover,見つける、見いだす,junior_high
+1018,disease,病気,junior_high
+1019,dish,皿,junior_high
+1020,distance,距離、遠い場所、遠方,junior_high
+1021,do,"①（動）～する、行う、行動する　　  【活用】 do - did - done
+②（助）（疑問文で）（～は～）しますか　
+③（助）（否定文で）（～は～しない）
+④（助）（否定の命令文で）（～は～）するな",junior_high
+1022,doctor,医師、博士,junior_high
+1023,does,主語が３人称単数形の時のdoの現在形,junior_high
+1024,dog,イヌ,junior_high
+1025,doll,人形,junior_high
+1026,dollar,ドル（アメリカ・オーストラリア・カナダなどの通貨単位）,junior_high
+1027,dolphin,イルカ,junior_high
+1028,door,ドア,junior_high
+1029,dot,点,junior_high
+1030,down,下へ（に）、（道などに）沿って,junior_high
+1031,Dr.,（医者や博士の名の前につけて）～先生、～博士,junior_high
+1032,drama,（テレビの）ドラマ、劇,junior_high
+1033,draw,（線を）引く、（絵を）かく　　　　【活用】 draw - drew - drawn,junior_high
+1034,dream,夢（を見る）,junior_high
+1035,dress,衣装、ドレス,junior_high
+1036,dressed,服を着た　　　　  ※get dressed  服を着る,junior_high
+1037,dried,乾燥した,junior_high
+1038,drill,訓練,junior_high
+1039,drink,"①（動）飲む　　【活用】 drink - drank - drunk   
+②（名）飲み物",junior_high
+1040,drive,（車を）運転する、ドライブする,junior_high
+1041,driver,（車を）運転する人、運転手,junior_high
+1042,drop,"①（動）落とす、落ちる
+②（名）しずく",junior_high
+1043,drugstore,ドラッグストア、薬局,junior_high
+1044,drum,太鼓、ドラム,junior_high
+1045,dry,（動）乾かす、（形）乾いた,junior_high
+1046,duck,カモ、アヒル,junior_high
+1047,during,～の間（のいつか）,junior_high
+1048,DVD,digital video discの略,junior_high
+1049,dying,瀕死の状態の、死にかかっている,junior_high
+1050,each,それぞれ（の）、各（の）～　　※each other  お互いに,junior_high
+1051,ear,耳,junior_high
+1052,early,（時間的に）早い、早く,junior_high
+1053,earth,地球,junior_high
+1054,earthquake,地震,junior_high
+1055,easily,簡単に、容易に,junior_high
+1056,east,東（の、へ）、東方,junior_high
+1057,easy,やさしい、簡単な,junior_high
+1058,eat,食べる、食事をする　※eat out 外食する　【活用】 eat - ate - eaten,junior_high
+1059,economy,経済,junior_high
+1060,education,教育,junior_high
+1061,effect,影響,junior_high
+1062,effort,努力,junior_high
+1063,egg,卵,junior_high
+1064,eight,８（の）,junior_high
+1065,eighteen,１８（の）,junior_high
+1066,eighteenth,１８番目（の）,junior_high
+1067,eighth,８番目（の）,junior_high
+1068,eighty,８０（の）,junior_high
+1069,either,"①どちらか　　　　※either A or B   AかBかどちから
+②（否定）～もまた～ない　",junior_high
+1070,elderly,年配の,junior_high
+1071,electricity,電気,junior_high
+1072,elementary school,小学校,junior_high
+1073,elephant,ゾウ,junior_high
+1074,elevator,エレベーター,junior_high
+1075,eleven,１１（の）,junior_high
+1076,eleventh,１１番目（の）,junior_high
+1077,else,他に（の）、その他（の）　　　※anything else　他に何か,junior_high
+1078,e(-)mail,電子メール、Eメール,junior_high
+1079,embarrassed,恥ずかしい、気まずい,junior_high
+1080,emergency,緊急事態、非常時,junior_high
+1081,empty,空の,junior_high
+1082,encourage,勇気づける、励ます,junior_high
+1083,end,"①（動）終わる、終える　
+②（名）最後、端　　※in the end 　最後に（は）",junior_high
+1084,energy,エネルギー,junior_high
+1085,engineer,技師、エンジニア,junior_high
+1086,England,イングランド（主にグレートブリテン島の南部地域）,junior_high
+1087,English,英語（の）、イギリスの、イギリス人（の）,junior_high
+1088,enjoy,楽しむ、～は楽しい（と思う）,junior_high
+1089,enough,十分な、ちょうどいい数（量）の,junior_high
+1090,enter,（学校などに）入る,junior_high
+1091,entrance,入り口、玄関,junior_high
+1092,environment,環境,junior_high
+1093,erase,～を消す,junior_high
+1094,eraser,消しゴム,junior_high
+1095,escape,逃げる,junior_high
+1096,especially,特に,junior_high
+1097,Europe,ヨーロッパ,junior_high
+1098,even,～でさえ、～でも,junior_high
+1099,evening,夕方、晩,junior_high
+1100,event,（重要な）出来事、事件、行事,junior_high
+1101,ever,（疑問文・否定文で）今までに、かつて,junior_high
+1102,every,すべての、毎～,junior_high
+1103,everybody,みんな,junior_high
+1104,everyone,みんな,junior_high
+1105,everything,すべてのこと（もの）,junior_high
+1106,everywhere,いたるところ、どこでも,junior_high
+1107,exam,試験（examinationを短くした形）,junior_high
+1108,example,例、実例　　※for example  例えば,junior_high
+1109,excellent,非常に優れた、優秀な,junior_high
+1110,exchange,交換,junior_high
+1111,excited,興奮した,junior_high
+1112,exciting,興奮させる、わくわくするような,junior_high
+1113,excuse,許す   ※Excuse me. 失礼します、すみません,junior_high
+1114,exercise,運動、練習問題　　※do some exercise  運動する,junior_high
+1115,expensive,（値段が）高い,junior_high
+1116,experience,経験（する）、体験（する）,junior_high
+1117,expert,専門家、エキスパート,junior_high
+1118,explain,説明する,junior_high
+1119,express,"①（動）表現する、言い表す
+②（名）急行、速達",junior_high
+1120,expression,表現,junior_high
+1121,eye,目,junior_high
+1122,face,"①（名）顔、表情
+②（動）（危険・困難などに）立ち向かう、直面する",junior_high
+1123,fact,事実、現実　　※in fact　実は,junior_high
+1124,factory,工場,junior_high
+1125,fair,公平な,junior_high
+1126,fall,"①（動）落ちる　　   【活用】 fall - fell - fallen　　　　　　　　　　　　　　
+②（名）秋、滝",junior_high
+1127,family,家族,junior_high
+1128,famous,有名な　　※be famous for ～　～で有名な,junior_high
+1129,fan,"①（スポーツなどの）ファン　
+②扇",junior_high
+1130,far,（距離が）遠くに、遠く（い）,junior_high
+1131,farewell,別れ,junior_high
+1132,farm,農場,junior_high
+1133,farmer,農場主、農業をする人,junior_high
+1134,fashion,流行、はやり,junior_high
+1135,fast,（速度が）速く（い）,junior_high
+1136,father,父、父親,junior_high
+1137,favorite,お気に入りの（もの）、大好きな（もの）,junior_high
+1138,February,２月,junior_high
+1139,fee,料金、入場料,junior_high
+1140,feed,えさをやる、食物を与える,junior_high
+1141,feel,（体や心に）感じる、気分が～である  　【活用】 feel - felt - felt,junior_high
+1142,feeling,感情、気持ち,junior_high
+1143,festival,お祭り、祭日、～祭、祭典,junior_high
+1144,fever,（病気の）熱,junior_high
+1145,few,※a few ～　数の～、少しの～,junior_high
+1146,fiction,小説、フィクション,junior_high
+1147,field,野原、畑、牧草地,junior_high
+1148,fifteen,１５（の）,junior_high
+1149,fifteenth,１５番目（の）,junior_high
+1150,fifth,５番目（の）,junior_high
+1151,fifty,５０（の）,junior_high
+1152,fight,戦う,junior_high
+1153,fill,いっぱいにする、いっぱいになる,junior_high
+1154,final,最後の、最終の,junior_high
+1155,finally,最後に、ついに,junior_high
+1156,find,見つける、見いだす　  【活用】 find - found - found,junior_high
+1157,fine,元気な、調子の良い,junior_high
+1158,finger,手の指,junior_high
+1159,finish,終わらせる、終わる,junior_high
+1160,fire,火,junior_high
+1161,firework,花火,junior_high
+1162,first,"１番目（の）、第１に、最初に　　
+※at first  最初は　　for the first time　初めて",junior_high
+1163,fish,（動）魚つりをする　　（名）魚　　※go fishing 　釣りに行く,junior_high
+1164,fishing,つり,junior_high
+1165,fit,（サイズ・形が）合う,junior_high
+1166,fitting room,試着室,junior_high
+1167,five,５（の）,junior_high
+1168,flag,旗,junior_high
+1169,flight,飛行、（飛行機の）便,junior_high
+1170,floor,床、階,junior_high
+1171,flour,小麦粉,junior_high
+1172,florist,花屋（の主人）,junior_high
+1173,flower,花,junior_high
+1174,fluently,流ちょうに,junior_high
+1175,fly,飛ぶ、（飛行機で）行く（旅行する）　  【活用】 fly - flew - flown,junior_high
+1176,follow,（～に）ついて行く、（～に）従う,junior_high
+1177,food,食べもの,junior_high
+1178,foot,足（足首から下の部分）　【複数】 feet,junior_high
+1179,football,アメリカンフットボール、サッカー,junior_high
+1180,for,"①～のために（の）　
+②～にとって　
+③～を得るために　
+④～の理由で　
+⑤～の間",junior_high
+1181,foreign,外国の,junior_high
+1182,foreigner,外国人,junior_high
+1183,forest,森,junior_high
+1184,forever,永久に、絶えず,junior_high
+1185,forget,忘れる　　【活用】 forget - forgot - forgot/forgotten,junior_high
+1186,forty,４０（の）,junior_high
+1187,forward,前へ　　　※look forward to ～　～を楽しみに待つ,junior_high
+1188,four,４（の）,junior_high
+1189,fourteen,１４（の）,junior_high
+1190,fourteenth,１４番目の,junior_high
+1191,fourth,４番目（の）,junior_high
+1192,fox,キツネ,junior_high
+1193,France,フランス,junior_high
+1194,free,"①自由な　　※be free to ～　自由に～することができる
+②ひまな　
+③無料の　　",junior_high
+1195,freedom,自由,junior_high
+1196,freely,自由に,junior_high
+1197,French,フランスの、フランス人（の）、フランス語（の）,junior_high
+1198,French fries,フライドポテト,junior_high
+1199,fresh,新鮮な,junior_high
+1200,Friday,金曜日,junior_high
+1201,fridge,冷蔵庫（refrigeratorの略）,junior_high
+1202,friend,友人、友達　　※make friends with～　～と友達になる,junior_high
+1203,friendly,友好的な、人なつっこい,junior_high
+1204,friendship,友情、親交,junior_high
+1205,frog,カエル,junior_high
+1206,from,"①～から　      ※from ～ to･･･ ～から･･･まで
+②～出身で　  ",junior_high
+1207,front,前（の）、前部（の）　　※in front of ～　～の前に（の）,junior_high
+1208,fruit,果物、フルーツ,junior_high
+1209,frustrated,フラストレーションを感じて、ストレスのたまった,junior_high
+1210,full,満ちた、いっぱいの     ※be full of～　～で一杯の,junior_high
+1211,fun,おもしろい（こと）、楽しさ　　※have fun　楽しむ,junior_high
+1212,funny,おもしろい,junior_high
+1213,furniture,家具,junior_high
+1214,future,未来（の）、将来（の）　　　※in the future 　将来（は）,junior_high
+1215,game,試合、（gamesで）競技大会、ゲーム,junior_high
+1216,garbage,生ごみ、くず,junior_high
+1217,garden,畑、庭,junior_high
+1218,gas,（燃料用の）ガス,junior_high
+1219,gate,門,junior_high
+1220,gather,集まる、集める,junior_high
+1221,gentle,思いやりのある,junior_high
+1222,gentleman,紳士、男性     【複数】 gentlemen,junior_high
+1223,German,ドイツの、ドイツ人（の）、ドイツ語（の）,junior_high
+1224,Germany,ドイツ,junior_high
+1225,gesture,身ぶり、ジェスチャー,junior_high
+1226,get,"①手に入れる  
+②（～に）なる　　
+※get back 戻る、取り返す　　get off　降りる 　　 get on 乗る  get to～　～に着く   get up 起きる 　　get well よくなる　　　　
+【活用】 get - got - got",junior_high
+1227,gift,贈り物,junior_high
+1228,girl,女の子、少女,junior_high
+1229,give,"与える、あげる　　　　※give up　あきらめる　　
+【活用】 give - gave - given     ",junior_high
+1230,glad,（人が）うれしい、喜んで　　※be glad to ～　～してうれしい,junior_high
+1231,glass,（ガラスの）コップ,junior_high
+1232,glasses,眼鏡,junior_high
+1233,global,地球の、地球規模の　※global warming  地球温暖化,junior_high
+1234,global warming,地球温暖化,junior_high
+1235,glove,手袋,junior_high
+1236,go,"行く　　※be going to do  ～しようとしている、～するつもりである　
+go into～　～に入って行く　      【活用】 go - went - gone",junior_high
+1237,goal,目標、（サッカーなどの）ゴール,junior_high
+1238,God,神,junior_high
+1239,gold,金（の）,junior_high
+1240,golf,ゴルフ,junior_high
+1241,good,"よい、上手な　   ※　be good at ～　～が得意  
+【活用】 good - better - best",junior_high
+1242,goodbye,さようなら,junior_high
+1243,goods,商品、品物,junior_high
+1244,government,政府,junior_high
+1245,grade,学年,junior_high
+1246,graduate,卒業する,junior_high
+1247,gram,グラム,junior_high
+1248,granddaughter,孫娘、女の孫,junior_high
+1249,grandfather,祖父、おじいさん,junior_high
+1250,grandmother,祖母、おばあさん,junior_high
+1251,grandson,孫息子、男の孫,junior_high
+1252,grape,ブドウ,junior_high
+1253,graph,グラフ,junior_high
+1254,gray,灰色（の）,junior_high
+1255,great,すてきな、すばらしい,junior_high
+1256,greatly,大いに,junior_high
+1257,green,緑（の）,junior_high
+1258,greet,あいさつをする,junior_high
+1259,greeting,あいさつ,junior_high
+1260,ground,地面、地上、運動場,junior_high
+1261,group,グループ、集団,junior_high
+1262,grow,"成長する、～を栽培する　　
+※grow up 成長する　　【活用】 grow - grew - grown　　",junior_high
+1263,guess,推測する　※Guess what!　何だと思う,junior_high
+1264,guest,客、ゲスト,junior_high
+1265,guide,（動）案内する、導く　　（名）案内人、ガイド,junior_high
+1266,guidebook,ガイドブック、案内書,junior_high
+1267,guitar,ギター,junior_high
+1268,gym,体育館、ジム（gymnasium の略）,junior_high
+1269,habit,習慣、くせ,junior_high
+1270,hair,髪の毛,junior_high
+1271,half,半分（の）,junior_high
+1272,hall,ホール、会館       ※city hall 市役所,junior_high
+1273,Halloween,ハロウィーン,junior_high
+1274,ham,ハム,junior_high
+1275,hamburger,ハンバーガー、ハンバーグステーキ,junior_high
+1276,hand,手（手首から先の部分）   ※shake hands 握手をする,junior_high
+1277,handmade,手づくりの,junior_high
+1278,handout,配布印刷物、ビラ、（教室などで配る）プリント,junior_high
+1279,hang,つるす,junior_high
+1280,happen,起こる、生じる,junior_high
+1281,happiness,幸福,junior_high
+1282,happy,幸せな、うれしい,junior_high
+1283,hard,"①（形）難しい、困難な　　
+②（副）いっしょうけんめいに、熱心に",junior_high
+1284,harvest,収穫,junior_high
+1285,has,"主語が３人称単数形のときのhaveの現在形 　 
+※has to～　～しなければならない　　　【活用】 has - had - had",junior_high
+1286,hat,（ふちのある）帽子,junior_high
+1287,hate,～するのが嫌いだ、～したくはない,junior_high
+1288,have,"①（動）持っている、所有している　
+②（動）食べる、飲む
+※have to～　しなければならない　　【活用】 have - had - had　　
+〔have+過去分詞で〕
+③（助）（今まで）～すっとしている
+④（助）（今までに）～したことがある　
+⑤（助）～したところである、もう～した",junior_high
+1289,Hawaii,ハワイ,junior_high
+1290,he,彼は、彼が,junior_high
+1291,head,頭（首から上の部分）,junior_high
+1292,headache,頭痛,junior_high
+1293,health,健康、健康状態,junior_high
+1294,healthy,健康によい,junior_high
+1295,hear,聞こえる、聞く    【活用】 hear - heard - heard,junior_high
+1296,heart,心、気持ち、心臓,junior_high
+1297,heat,熱（する）,junior_high
+1298,heater,暖房器具,junior_high
+1299,heaven,天国,junior_high
+1300,heavy,重い,junior_high
+1301,hello,やあ、こんにちは,junior_high
+1302,help,"（動）手伝う、助ける　　　
+※help yourself to～　　～を自分で取って食べる（飲む）
+（名）手伝い、手助け",junior_high
+1303,helpful,役に立つ、助けになる,junior_high
+1304,her,彼女の、彼女を,junior_high
+1305,here,"ここ（に、で、へ）　※Here is (are)～.　ここに～があります
+Here you are. はい、どうぞ　　
+For here or to go?  ここで食べますか、それともお持ち帰りですか",junior_high
+1306,hero,ヒーロー、英雄,junior_high
+1307,hers,彼女のもの,junior_high
+1308,herself,彼女自身を（に）      ※by herself 彼女自身で,junior_high
+1309,hey,ねえ、おや、やあ,junior_high
+1310,hi,こんにちは、やあ《helloよりもくだけた言い方》,junior_high
+1311,high,（高さ、値段、程度などが）高い,junior_high
+1312,high school,高校,junior_high
+1313,hiking,ハイキング,junior_high
+1314,hill,丘,junior_high
+1315,him,彼を、彼に,junior_high
+1316,himself,彼自身を（に）　　　　※ by himself  彼自身で,junior_high
+1317,his,彼の、彼のもの,junior_high
+1318,history,歴史,junior_high
+1319,hit,打つ、当たる    【活用】 hit - hit - hit,junior_high
+1320,hobby,趣味、道楽,junior_high
+1321,hold,"持つ、握る、抱く  　※hold on （電話を）切らずに待つ　
+ 【活用】 hold - held - held",junior_high
+1322,hole,穴,junior_high
+1323,holiday,祝日、祭日、休日,junior_high
+1324,home,"①（名）家、家庭　　　※at home 家で（に）
+②（副）うちへ（に）、故郷へ（に）     ※come(go) home 家に帰る",junior_high
+1325,home economics,家庭科,junior_high
+1326,homesick,家を恋しがる、故郷を慕う、ホームシックの,junior_high
+1327,homestay,ホームステイ、家庭滞在      ※do homestay 　ホームステイする,junior_high
+1328,hometown,生まれ育った町（市）,junior_high
+1329,homework,宿題　　　　※do one's homework  宿題をする,junior_high
+1330,honest,正直な,junior_high
+1331,honey,はちみつ,junior_high
+1332,hope,希望（する）、望む,junior_high
+1333,hopeless,絶望した,junior_high
+1334,horse,ウマ,junior_high
+1335,hospital,病院,junior_high
+1336,host,主催者、（客をもてなす）主人,junior_high
+1337,host family,ホストファミリー,junior_high
+1338,hot,熱い、暑い,junior_high
+1339,hot spring,温泉,junior_high
+1340,hotel,ホテル,junior_high
+1341,hour,１時間、６０分,junior_high
+1342,house,家、住宅,junior_high
+1343,housework,家事,junior_high
+1344,how,"①（程度）どれぐらい
+②（健康・天候・状態）どんな具合で、いかがで
+③（方法・手段）どうやって、どんな方法で
+※How about～? ～はどうですか　How far～? （距離が）どれくらい遠いですか  How long～?（期間が）どれくらい～ですか  How much～?（金額が）どれくらい～ですか  How many～?（数が）どれくらい～ですか  How often～?（頻度が）どれくらい～ですか  How old～? 何歳ですか  how to ～　～の仕方",junior_high
+1345,however,しかしながら、だが,junior_high
+1346,human,人間（の）,junior_high
+1347,humor,おかしさ、ユーモア,junior_high
+1348,hundred,１００（の）　　　※hundreds of ～　　 何百という～,junior_high
+1349,hungry,空腹の、飢えた,junior_high
+1350,hunting,狩り,junior_high
+1351,hurry,急ぐ、急いで行く,junior_high
+1352,hurt,傷づける　【活用】 hurt - hurt - hurt,junior_high
+1353,husband,夫,junior_high
+1354,I,私は、私が（文の主語に使う）,junior_high
+1355,ice,氷,junior_high
+1356,ice cream,アイスクリーム,junior_high
+1357,idea,考え、アイデア,junior_high
+1358,if,もし（～する）ならば,junior_high
+1359,ill,病気の,junior_high
+1360,image,像、画像、イメージ,junior_high
+1361,imagine,想像する,junior_high
+1362,impact,衝撃,junior_high
+1363,importance,重要性、大切さ,junior_high
+1364,important,重要な、重大な,junior_high
+1365,impossible,不可能な,junior_high
+1366,improve,よりよくする、改良する,junior_high
+1367,in,"①（場所）～（の中）に（で、の）　
+②（期間）～（のうち）に
+③（範囲・対象）～の点で",junior_high
+1368,including,～を含めて,junior_high
+1369,increase,増える、増加する,junior_high
+1370,India,インド,junior_high
+1371,Indian,インドの、インド人（の）,junior_high
+1372,industry,工業,junior_high
+1373,influence,影響（を与える）,junior_high
+1374,information,情報,junior_high
+1375,injure,傷つける、けがをさせる,junior_high
+1376,ink,インク,junior_high
+1377,inside,中に、中で,junior_high
+1378,instead,代わりに　　※instead of　～　～の代わりに,junior_high
+1379,instrument,楽器,junior_high
+1380,interested,※be interested in ～　～に興味を持っている,junior_high
+1381,interesting,おもしろい、興味深い,junior_high
+1382,international,国際的な,junior_high
+1383,Internet,インターネット　　※on the Internet  インターネットで,junior_high
+1384,interview,インタビュー（する）、面接（する）,junior_high
+1385,into,～の中へ,junior_high
+1386,introduce,～を紹介する　※introduce myself to ～　～に自己紹介する,junior_high
+1387,invent,発明する,junior_high
+1388,invite,招待する,junior_high
+1389,is,"～である、（～に）いる、ある  　
+※is～ing ～している、しようとしている　　　【活用】 is - was - been",junior_high
+1390,island,島,junior_high
+1391,it,それ（は、が）、それ（を、に）,junior_high
+1392,Italian,イタリアの、イタリア人（の）、イタリア語（の）,junior_high
+1393,Italy,イタリア,junior_high
+1394,its,その、それの,junior_high
+1395,jacket,上着、ジャケット,junior_high
+1396,jam,ジャム,junior_high
+1397,January,１月,junior_high
+1398,Japan,日本,junior_high
+1399,Japanese,日本の、日本人（の）、日本語（の）,junior_high
+1400,job,職業、仕事,junior_high
+1401,join,～に加わる、参加する,junior_high
+1402,joke,冗談、しゃれ,junior_high
+1403,journalist,ジャーナリスト,junior_high
+1404,joy,喜び,junior_high
+1405,judge,判断する,junior_high
+1406,juice,（果物、肉などの）液、ジュース,junior_high
+1407,July,７月,junior_high
+1408,jump,跳ぶ,junior_high
+1409,June,６月,junior_high
+1410,jungle,（熱帯地方の）密林、ジャングル,junior_high
+1411,junior,下位の、年下の　　　※junior high school　中学校,junior_high
+1412,junior high school,中学校,junior_high
+1413,just,ちょうど、まさに,junior_high
+1414,keep,"保存する、保つ、ずっと～である 　※keep～ing ～し続る
+※keep in touch  連絡をとりあう　 【活用】 keep - kept - kept",junior_high
+1415,key,かぎ、キー,junior_high
+1416,kick,蹴る,junior_high
+1417,kid,子ども,junior_high
+1418,kill,殺す,junior_high
+1419,kilogram,キログラム,junior_high
+1420,kilometer,キロメートル,junior_high
+1421,kind,"①（形）親切な　　　※That's kind of you.　親切にどうもありがとう
+②（名）種類　　　　※～ kind(s) of …  ～種類の…",junior_high
+1422,kindly,親切に,junior_high
+1423,king,王,junior_high
+1424,kitchen,台所、調理場,junior_high
+1425,kite,凧,junior_high
+1426,knee,膝,junior_high
+1427,knife,ナイフ　　【複数】 knives,junior_high
+1428,knock,（動）ノックする、たたく　（名）（ドア・窓などを）たたく音,junior_high
+1429,know,知っている、知る　　　【活用】 know - knew - known,junior_high
+1430,Korea,韓国・朝鮮,junior_high
+1431,Korean,韓国・朝鮮の、韓国・朝鮮人（の）、韓国・朝鮮語（の）,junior_high
+1432,lady,女性、婦人,junior_high
+1433,lake,湖,junior_high
+1434,land,土地、国,junior_high
+1435,language,言語、言葉,junior_high
+1436,large,（広くて）大きい,junior_high
+1437,last,"①（時間的に）この前　
+②最後の　※at last 最後には、ついに　",junior_high
+1438,late,（時間・時期が）遅い、遅れた,junior_high
+1439,later,後で、のちほど、～後　　　※～ year(s)　later ～年後,junior_high
+1440,laugh,（声を出して）笑う,junior_high
+1441,lawyer,弁護士,junior_high
+1442,lead,導く、案内する,junior_high
+1443,leader,指導者、リーダー,junior_high
+1444,learn,学ぶ、覚える、知る,junior_high
+1445,least,"（littleの最上級）　最も少ない、最小（の）　　
+【活用】 little - less -least　　　※at least 少なくとも",junior_high
+1446,leave,"①去る、出発する　
+②残す、置いていく、忘れる　　【活用】 leave - left - left",junior_high
+1447,left,左（へ）、左の方に,junior_high
+1448,leg,（人・動物などの）あし、すね,junior_high
+1449,lemon,レモン,junior_high
+1450,lend,～を貸す,junior_high
+1451,lesson,授業、レッスン,junior_high
+1452,let,～させる,junior_high
+1453,let's,"～しましょう　※Yes, let's.　そうしよう",junior_high
+1454,letter,"①文字　
+②（ふつう封筒に入った）手紙",junior_high
+1455,level,水平（面）、水位、レベル,junior_high
+1456,library,図書館、図書室,junior_high
+1457,lie,横たわる、横になる　【活用】 lie - lay - lain,junior_high
+1458,life,生活、一生、命   　　【複数】 lives,junior_high
+1459,lifestyle,生活様式,junior_high
+1460,lift,持ち上げる,junior_high
+1461,light,"①（名）光、あかり、電灯　　（動）～に火を付ける、ともす
+②（形）軽い",junior_high
+1462,like,"①（動）～を好む、～が好きである　　
+※would like to ～　～したいと思う
+②（前）～のように、～のような
+※look like ～ ～のように見える
+③（前）～に似ている、～に似た　",junior_high
+1463,line,（電車の）路線、電話線,junior_high
+1464,lion,ライオン,junior_high
+1465,list,名簿、リスト,junior_high
+1466,listen,（じっと）聞く、耳を傾ける  ※listen to～ ～を聞く、～に耳を傾ける,junior_high
+1467,little,"①（形）小さい、かわいらしい、幼い  
+②（副）※a little～　少し～ ",junior_high
+1468,live,住んでいる、生きている,junior_high
+1469,living room,居間、リビングルーム,junior_high
+1470,local,地元の,junior_high
+1471,lock,かぎを掛ける,junior_high
+1472,London,ロンドン,junior_high
+1473,lonely,ひとりぼっちの、さびしい,junior_high
+1474,long,長い（く） ※for a long time　長い間,junior_high
+1475,look,"①（注意してよく）見る　
+②（外見が）～に見える
+※look at ～　～を（注意して）見る　look for～　～を探す　
+look forward to～ ～を楽しみに待つ 
+look like～　～のように見える",junior_high
+1476,lose,"失う、なくす  　※lose a game ゲームに負ける　
+【活用】 lose - lost - lost",junior_high
+1477,lot,※a lot of～又はlots of ～　たくさんの　　a lot　たくさん、とても,junior_high
+1478,loud,（声が）大きい,junior_high
+1479,loudly,大声で,junior_high
+1480,love,愛（する）、～が大好きである   ※I'd love to.　喜んで,junior_high
+1481,low,低い,junior_high
+1482,luck,幸運、運   　　　　※Good luck!　幸運を,junior_high
+1483,lucky,運のよい、幸運な,junior_high
+1484,lunch,昼食、弁当,junior_high
+1485,lunch break,昼休み,junior_high
+1486,machine,機械,junior_high
+1487,magazine,雑誌,junior_high
+1488,magic,魔法、ふしぎな力,junior_high
+1489,mailbox,郵便ポスト、郵便受け,junior_high
+1490,main,主な、主要な,junior_high
+1491,major,（他と比べて）大きな、主要な、重要な,junior_high
+1492,make,"①作る　　　　　　　　　【活用】 make - made - made
+②～を…にする　　　
+※be made from（of） ～　　～から作られている",junior_high
+1493,maker,制作者,junior_high
+1494,Malaysia,マレーシア,junior_high
+1495,man,（大人の）男性、男（の人）    【複数】 men,junior_high
+1496,manager,経営者、園長,junior_high
+1497,manner,行儀、マナー,junior_high
+1498,many,多く（の）、たくさん（の）　　【活用】 many - more - most,junior_high
+1499,map,地図,junior_high
+1500,March,３月,junior_high
+1501,mark,印、マーク,junior_high
+1502,market,市、市場,junior_high
+1503,married,結婚している,junior_high
+1504,marry,結婚する,junior_high
+1505,mask,お面、マスク,junior_high
+1506,master,主人,junior_high
+1507,match,試合,junior_high
+1508,material,材料、原料,junior_high
+1509,math,数学（mathematicsを短くした形）,junior_high
+1510,matter,事柄、困ったこと　　※What's the matter?　どうしたのですか,junior_high
+1511,May,５月,junior_high
+1512,may,"①～してもよい　
+②～かもしれない、たぶん～だろう 
+※May I ～?　～してもよいですか　　May I help you?　 いらっしゃいませ",junior_high
+1513,maybe,たぶん、もしかすると,junior_high
+1514,me,"私を、私に　　　※Me, too. 私も",junior_high
+1515,meal,食事,junior_high
+1516,mean,意味する、～の意味である  【活用】mean - meant - meant,junior_high
+1517,meaning,意味,junior_high
+1518,meat,肉,junior_high
+1519,medal,メダル,junior_high
+1520,media,マスメディア、媒体,junior_high
+1521,medical,医学の,junior_high
+1522,medicine,薬、医薬,junior_high
+1523,medium,中間（の）,junior_high
+1524,meet,"会う、出会う　　※Nice to meet you.　はじめまして 
+【活用】 meet - met - met",junior_high
+1525,meeting,集まり、会議,junior_high
+1526,melt,とける,junior_high
+1527,member,会員、メンバー,junior_high
+1528,memory,思い出、記憶,junior_high
+1529,menu,献立表、メニュー,junior_high
+1530,merit,長所、よい点,junior_high
+1531,message,"伝えたいこと、メッセージ、伝言　　
+※leave(take) a message 伝言を残す（受け取る）",junior_high
+1532,meter,メートル,junior_high
+1533,middle,真ん中、中間,junior_high
+1534,midnight,夜の１２時,junior_high
+1535,milk,牛乳、ミルク,junior_high
+1536,million,１００万（の）,junior_high
+1537,mind,心　　　※keep ～ in mind  　～を心にとめておく,junior_high
+1538,mine,私のもの　　　　　※a friend of mine 私の友人（の１人）,junior_high
+1539,minute,"①（時間の）分　
+②ちょっとの間　　※Just a minute.　ちょっと待って",junior_high
+1540,mirror,鏡,junior_high
+1541,miss,"①（機会などを）逃す、（乗り物に）乗り遅れる
+②～がいなくてさみしい",junior_high
+1542,mistake,誤り、間違い　   ※make a mistake　間違う,junior_high
+1543,mix,混ぜる,junior_high
+1544,model,模型,junior_high
+1545,mom,ママ、お母さん,junior_high
+1546,moment,瞬間　　　※Just a moment.  ちょと待ってください,junior_high
+1547,Monday,月曜日,junior_high
+1548,money,お金,junior_high
+1549,monkey,サル,junior_high
+1550,month,月、ひと月（間）,junior_high
+1551,moon,（天体の）月,junior_high
+1552,more,"（more ～で）もっと～、もっと多く（many, muchの比較級） 　
+※more than ～　～以上に　",junior_high
+1553,more,もっと多くの物（人・事・量）,junior_high
+1554,morning,朝、午前　　　※Good morning.　おはよう,junior_high
+1555,most,"（しばしば the most ～で）最も～、最も多く（many, muchの最上級）",junior_high
+1556,most,大部分、たいてい　　※most of ～　～の大部分,junior_high
+1557,mother,母、母親,junior_high
+1558,mountain,山,junior_high
+1559,mouse,ネズミ,junior_high
+1560,mouth,口,junior_high
+1561,move,"①動く、移動する　
+②（心を）動かす、感動させる",junior_high
+1562,movement,動き、（社会的）運動,junior_high
+1563,movie,映画,junior_high
+1564,movie theater,映画館,junior_high
+1565,Mr.,（男性への敬称） ～さん、～先生,junior_high
+1566,Mrs.,（結婚している女性への敬称）～婦人、～さん、～先生,junior_high
+1567,Ms.,（女性への敬称） ～さん、～先生,junior_high
+1568,Mt.,～山（山の名の前につける）,junior_high
+1569,much,多量の、たくさんの　　【活用】 much - more - most,junior_high
+1570,much,多量、たくさん,junior_high
+1571,museum,博物館、美術館,junior_high
+1572,music,音楽,junior_high
+1573,musician,音楽家,junior_high
+1574,must,"①しなければならない　
+②～にちがいない",junior_high
+1575,my,私の,junior_high
+1576,myself,私自身　　　※by myself  　自分で、ひとり（ぼっち）で,junior_high
+1577,mysterious,神秘的な,junior_high
+1578,mystery,謎,junior_high
+1579,nail,つめ,junior_high
+1580,name,名前（を付ける）,junior_high
+1581,narrow,（幅が）狭い,junior_high
+1582,nation,国家,junior_high
+1583,national,国家の、国立の             　　　　　　　　 ※national park 国立公園,junior_high
+1584,national holiday,国民の祝日,junior_high
+1585,native,その土地に生まれ育った,junior_high
+1586,natural,自然の,junior_high
+1587,nature,自然,junior_high
+1588,near,～の近くに（の）,junior_high
+1589,necessary,必要な,junior_high
+1590,neck,首,junior_high
+1591,need,"①（動）～する必要がある　　※need to ～　～する必要がある　　　
+②（名）必要、必要性 　　 ※in need  必要で、困って",junior_high
+1592,neighbor,近所の人、隣人,junior_high
+1593,neighborhood,近隣（の人々）,junior_high
+1594,nervous,神経質な、緊張して,junior_high
+1595,net,網、ネット,junior_high
+1596,never,決して～ない、まだ一度も～ない,junior_high
+1597,new,新しい,junior_high
+1598,New Year,新年,junior_high
+1599,New Year's Day,元旦,junior_high
+1600,New Year's Eve,おおみそか（の夜）,junior_high
+1601,New York,ニューヨーク,junior_high
+1602,New Zealand,ニュージランド,junior_high
+1603,news,報道、ニュース,junior_high
+1604,newspaper,新聞,junior_high
+1605,next,次の（に）、となりの（に）　※next to～　～のとなりに,junior_high
+1606,nice,すてきな、すばらしい　※Nice to meet you. はじめまして,junior_high
+1607,night,夜、晩　　※Good night.　おやすみなさい,junior_high
+1608,nine,９（の）,junior_high
+1609,nineteen,１９（の）,junior_high
+1610,nineteenth,１９番目（の）,junior_high
+1611,ninety,９０（の）,junior_high
+1612,ninth,９番目（の）,junior_high
+1613,no,"①いいえ　
+②何も～ない",junior_high
+1614,nobody,だれも～ない,junior_high
+1615,noisy,さわがしい、うるさい,junior_high
+1616,noodle,麺,junior_high
+1617,noon,正午、昼の１２時,junior_high
+1618,normal,普通の,junior_high
+1619,north,北（の、へ）、北方,junior_high
+1620,nose,鼻,junior_high
+1621,not,～でない、～しない,junior_high
+1622,note,メモ、手帳　　※make(take) a note　メモをとる、書き留める,junior_high
+1623,notebook,ノート、手帳,junior_high
+1624,nothing,何も～ない,junior_high
+1625,notice,気付く,junior_high
+1626,novel,小説,junior_high
+1627,November,１１月,junior_high
+1628,now,今（は）、現在（は）,junior_high
+1629,number,数、（電話）番号,junior_high
+1630,nurse,看護師、保健の先生　　※go to the nurse  保健の先生の所へ行く,junior_high
+1631,nursery,保育園（＝nursery school),junior_high
+1632,occupation,職業,junior_high
+1633,ocean,大洋、海,junior_high
+1634,o'clock,～時,junior_high
+1635,October,１０月,junior_high
+1636,octopus,タコ,junior_high
+1637,of,"①（所有・所属）～の　
+②（部分・中身）～の　
+③（内容）～のこと、～について
+④（同格）A of B 　BというA　　
+⑤（中身）～の（入った）",junior_high
+1638,off,（場所）を離れて、（物を）離して,junior_high
+1639,office,事務所,junior_high
+1640,officer,係員、役人　　※police officer 警察官,junior_high
+1641,official,"①（名）係官、職員
+②（形）公式の",junior_high
+1642,often,しばしば、たびたび,junior_high
+1643,oh,おお、まあ、おや、あら,junior_high
+1644,oil,油、石油,junior_high
+1645,OK,よろしい、オーケー　　　　　※It's OK.  いいんですよ,junior_high
+1646,old,古い、～歳で,junior_high
+1647,Olympics,国際オリンピック競技会、オリンピック,junior_high
+1648,on,"①（時間）～に　
+②（接触）～の上に　
+③（状態）～で　
+④（手段・道具）～で　
+⑤（位置）～に面して　
+⑥（関連）～について、～に関する　
+⑦（所属）～に属して、～の一員で　
+⑧身に付けて　 ※try on ～　～を試着する　
+※～and so on　～など　　　",junior_high
+1649,once,"①（接）いったん～したからには　　　　　　　　
+②（副）１度、１回、かつて      ※at once  すぐに",junior_high
+1650,one,１つ（の）、人、それ、ある～,junior_high
+1651,onion,タマネギ,junior_high
+1652,only,たった、～だけ,junior_high
+1653,open,"①（動）（ドア・窓などが）開く、あける　　　
+②（形）開いている",junior_high
+1654,opinion,意見、考え　　　　　　　　　　※in my opinion  私の意見では,junior_high
+1655,or,または、あるいは,junior_high
+1656,orange,オレンジ（がかった色の）,junior_high
+1657,orchestra,オーケストラ,junior_high
+1658,order,注文（する）、命じる,junior_high
+1659,original,独自の,junior_high
+1660,originally,もともとは、本来は,junior_high
+1661,other,他の（もの）,junior_high
+1662,our,私たちの、われわれの,junior_high
+1663,ours,私たちのもの,junior_high
+1664,ourselves,私たちを（に）,junior_high
+1665,out,外へ（で）、外を,junior_high
+1666,outside,外へ（で）,junior_high
+1667,over,"①（越えて）向こうへ、渡って
+②～以上で（の）
+③～の一面に
+④～の上に、～の上を　　
+※over there 向こうに　all over the world 世界中に（で）",junior_high
+1668,overseas,海外へ、外国へ,junior_high
+1669,own,自分(自身)の,junior_high
+1670,owner,持ち主、飼い主,junior_high
+1671,pack,１パック、１箱　　※a pack of ～　パック１箱（の量）の～,junior_high
+1672,page,（本、新聞などの）面、欄、ページ,junior_high
+1673,pain,痛み,junior_high
+1674,paint,（絵の具で）かく、いろどる,junior_high
+1675,painter,画家,junior_high
+1676,painting,（絵の具で）かくこと、絵,junior_high
+1677,pair,１組、１対　　　※ a pair of ～　　１足の～、１組の～,junior_high
+1678,pale,顔色の悪い,junior_high
+1679,panda,パンダ,junior_high
+1680,paper,紙,junior_high
+1681,Paralympics,パラリンピック,junior_high
+1682,pardon,※Pardon?　（最後を上げて発音して）すみませんがもう一度言ってください,junior_high
+1683,parent,親（父または母、parentsで両親）,junior_high
+1684,Paris,パリ,junior_high
+1685,park,公園、遊園地　　　　　　　　　　※national park 国立公園,junior_high
+1686,part,"①部分　
+②役割、役目　　 
+※ play a part 　役割を果たす　take part in～　～に参加する",junior_high
+1687,partner,仲間、パートナー,junior_high
+1688,party,パーティ、（社交の）会,junior_high
+1689,pass,渡す、通り過ぎる,junior_high
+1690,passenger,乗客,junior_high
+1691,passion,熱中（しているもの）、情熱,junior_high
+1692,passport,旅券、パスポート,junior_high
+1693,past,過去（の）,junior_high
+1694,patient,"①（名）患者、病人
+②（形）我慢強い",junior_high
+1695,pay,支払う、払う,junior_high
+1696,P.E. (PE),体育（physical educationの略）,junior_high
+1697,peace,平和,junior_high
+1698,peach,モモ,junior_high
+1699,pen,ペン,junior_high
+1700,pencil,鉛筆,junior_high
+1701,people,人々、国民,junior_high
+1702,percent,パーセント,junior_high
+1703,perfect,完全な、申し分ない,junior_high
+1704,perform,演じる、演奏する,junior_high
+1705,performance,上演、演奏、演技,junior_high
+1706,period,期間、時代,junior_high
+1707,person,人,junior_high
+1708,personal,個人的な、個人の,junior_high
+1709,personal computer,パソコン,junior_high
+1710,pet,ペット,junior_high
+1711,phone,電話（機）（telephoneを短くした形）,junior_high
+1712,phone call,電話（をかけること）,junior_high
+1713,phone number,電話番号,junior_high
+1714,photo,写真（photographを短くした形）,junior_high
+1715,photograph,写真（を撮る）,junior_high
+1716,photographer,写真家、カメラマン,junior_high
+1717,phrase,言葉遣い、表現,junior_high
+1718,pianist,ピアニスト,junior_high
+1719,piano,ピアノ,junior_high
+1720,pick,取り上げる、拾い上げる　　※pick up　拾い上げる,junior_high
+1721,picnic,ピクニック、行楽,junior_high
+1722,picture,写真、絵　　※take a picture 写真を撮る,junior_high
+1723,piece,"断片、破片     
+※a piece of ～　１枚（片、個の）～",junior_high
+1724,pilot,（飛行機の）操縦士、パイロット,junior_high
+1725,pink,ピンク色（の）,junior_high
+1726,pizza,ピザ,junior_high
+1727,place,場所、所,junior_high
+1728,plan,（動）計画する、～するつもりである　　（名）計画、案、考え,junior_high
+1729,plane,飛行機,junior_high
+1730,planet,惑星,junior_high
+1731,plant,"①（名）植物、草木
+②（動）～を植える",junior_high
+1732,plastic,プラスチック（の)、ビニール（の）       ※plastic bag   ビニール袋,junior_high
+1733,plate,皿、取り皿,junior_high
+1734,play,"①（スポーツ・ゲームなどを）する　
+②（楽器を）演奏する　
+③遊ぶ　
+④（役を）演じる、果たす",junior_high
+1735,player,（運動）選手、（楽器の）演奏者,junior_high
+1736,please,どうぞ、すみませんが,junior_high
+1737,p.m.,午後,junior_high
+1738,pocket,ポケット,junior_high
+1739,poem,詩,junior_high
+1740,point,"①（名）点、大切な点
+②（動）～を指し示す",junior_high
+1741,police,警察、警察官たち     ※　police station  警察署,junior_high
+1742,police station,警察署,junior_high
+1743,polite,ていねいな、礼儀正しい,junior_high
+1744,pollution,汚染,junior_high
+1745,pool,プール,junior_high
+1746,poor,貧しい、へたな,junior_high
+1747,popular,人気のある、流行の,junior_high
+1748,population,人口,junior_high
+1749,positive,積極的な、肯定的な、前向きな,junior_high
+1750,possible,可能な、実行できる,junior_high
+1751,post,郵便,junior_high
+1752,post office,郵便局,junior_high
+1753,postcard,郵便はがき、絵はがき,junior_high
+1754,poster,ポスター,junior_high
+1755,pot,つぼ、なべ,junior_high
+1756,potato,ジャガイモ,junior_high
+1757,power,力、エネルギー,junior_high
+1758,powerful,力強い、迫力のある,junior_high
+1759,practice,練習（する）,junior_high
+1760,prefecture,県,junior_high
+1761,prefer,（～のほうを）好む,junior_high
+1762,prepare,準備をする  　　※prepare for ～　～に備えて準備する,junior_high
+1763,present,贈り物、プレゼント,junior_high
+1764,pretty,"①（形）（小さくて）かわいい、きれいな
+②（副）かなり",junior_high
+1765,price,価格、値段　　※at low price　低価格で,junior_high
+1766,print,印刷（する）,junior_high
+1767,prize,賞、ほうび、賞品,junior_high
+1768,problem,問題、課題　　　※No problem. 大丈夫です,junior_high
+1769,produce,～を生ずる、生産する,junior_high
+1770,product,製品、生産物,junior_high
+1771,professional,専門（職）の、プロの,junior_high
+1772,program,番組（表）、計画、プログラム,junior_high
+1773,programmer,プログラマー,junior_high
+1774,project,計画、企画,junior_high
+1775,promise,約束（する）,junior_high
+1776,protect,保護する、守る,junior_high
+1777,proud,～を誇りに思う　　　※be proud of～　～を誇りに思う,junior_high
+1778,public,公の、公共の,junior_high
+1779,pull,引く,junior_high
+1780,purple,紫色（の）,junior_high
+1781,purpose,目的、つもり,junior_high
+1782,push,押す,junior_high
+1783,put,置く、つける　※put on～　～を身に付ける　【活用】 put - put - put,junior_high
+1784,quality,品質　　　※in quality  質的に,junior_high
+1785,question,質問、（試験の）問題,junior_high
+1786,quick,すばやい、速い,junior_high
+1787,quickly,すばやく、速く,junior_high
+1788,quiet,静かな、おとなしい,junior_high
+1789,quietly,静かに、黙って,junior_high
+1790,quite,とても、本当に,junior_high
+1791,quiz,テスト、クイズ,junior_high
+1792,rabbit,ウサギ,junior_high
+1793,racket,ラケット,junior_high
+1794,radio,ラジオ,junior_high
+1795,rain,雨（が降る）,junior_high
+1796,rain forest,熱帯雨林,junior_high
+1797,rainbow,虹,junior_high
+1798,rainy,雨降りの、雨の多い,junior_high
+1799,raise,あげる,junior_high
+1800,reach,着く、到着する,junior_high
+1801,read,読む、読書する　　【活用】 read - read - read,junior_high
+1802,reading,読むこと、読書,junior_high
+1803,ready,"用意（準備）ができて　　
+※be ready for～　～の用意（準備）ができている",junior_high
+1804,real,本当の、本物の,junior_high
+1805,realize,実感する、理解する,junior_high
+1806,really,本当に、実際に、ほんと、へえー,junior_high
+1807,reason,理由、わけ,junior_high
+1808,receive,受け取る、もらう,junior_high
+1809,recipe,（料理などの）作り方、レシピ,junior_high
+1810,recycle,再生する、再利用する,junior_high
+1811,recycling,リサイクル（をすること）,junior_high
+1812,red,赤(の),junior_high
+1813,reduce,減らす、減少させる,junior_high
+1814,refuse,拒否する、断る,junior_high
+1815,regular,規則的な、定期的な,junior_high
+1816,relaxed,（人が）くつろいだ,junior_high
+1817,remember,覚えている、思い出す,junior_high
+1818,remind,思い出させる   ※remind A of B　 AにBを思い出させる,junior_high
+1819,rent,有料で借りる,junior_high
+1820,rental,レンタルの、賃貸しの,junior_high
+1821,repair,修理する、直す,junior_high
+1822,report,報告（する）、報告書,junior_high
+1823,rescue,救い出す、救出する,junior_high
+1824,research,研究（する）、調査（する）,junior_high
+1825,respect,尊敬（する）、尊重（する）,junior_high
+1826,rest,（動）休む、横になる　（名）休憩,junior_high
+1827,restaurant,レストラン,junior_high
+1828,restroom,（デパート・劇場などの）洗面所、トイレ,junior_high
+1829,result,結果,junior_high
+1830,return,帰る、戻る,junior_high
+1831,reuse,再利用する,junior_high
+1832,rice,米、ごはん,junior_high
+1833,rice ball,おにぎり,junior_high
+1834,rice cake,もち,junior_high
+1835,rich,豊かな、金持ちの,junior_high
+1836,ride,乗る、乗って行く,junior_high
+1837,right,"①右（の、に）、右側　　　
+②権利 ",junior_high
+1838,right,"正しい（こと）、ちょうど     
+※all right 大丈夫な　That's right. そのとおり　right now 今すぐ",junior_high
+1839,ring,"①（動）鳴る、響く
+②（名）指輪",junior_high
+1840,rise,（動）上がる　　（名）上昇、増加,junior_high
+1841,risk,危険、恐れ,junior_high
+1842,river,川,junior_high
+1843,road,道路、道,junior_high
+1844,robot,ロボット,junior_high
+1845,rock,"①（音楽の）ロック　　
+②岩、岩石",junior_high
+1846,roof,屋根,junior_high
+1847,room,部屋、室,junior_high
+1848,rope,綱、ロープ,junior_high
+1849,round,丸い（もの）、円形（の）,junior_high
+1850,rugby,ラグビー,junior_high
+1851,rule,規則、ルール,junior_high
+1852,ruler,ものさし、定規,junior_high
+1853,run,走る、走って行く　　【活用】 run - ran - run,junior_high
+1854,Russia,ロシア（連邦）,junior_high
+1855,sad,悲しい,junior_high
+1856,safe,安全な,junior_high
+1857,safely,安全に,junior_high
+1858,safety,安全,junior_high
+1859,salad,サラダ,junior_high
+1860,sale,安売り、バーゲンセール,junior_high
+1861,salt,塩、食塩,junior_high
+1862,salty,塩辛い,junior_high
+1863,same,同じ（もの）、同一の,junior_high
+1864,sandwich,サンドイッチ,junior_high
+1865,Saturday,土曜日,junior_high
+1866,save,"①救う、助ける　
+②節約する",junior_high
+1867,say,言う　　【活用】 say - said - said,junior_high
+1868,scene,場面、舞台,junior_high
+1869,schedule,予定（表）,junior_high
+1870,school,学校,junior_high
+1871,school festival,文化祭,junior_high
+1872,school lunch,給食,junior_high
+1873,school trip,修学旅行,junior_high
+1874,science,理科、自然科学,junior_high
+1875,scientist,科学者,junior_high
+1876,scold,しかる,junior_high
+1877,score,得点（する）,junior_high
+1878,screen,画面、スクリーン,junior_high
+1879,sea,海,junior_high
+1880,seafood,シーフード、海産物,junior_high
+1881,season,季節,junior_high
+1882,seat,席、すわる物（所）,junior_high
+1883,second,"①２番目（の）、第２に　　　　　
+②秒",junior_high
+1884,secret,秘密,junior_high
+1885,section,（切ってわけられた）部分、区域,junior_high
+1886,see,"見る、見える、会う、わかる   　 ※I see. なるほど
+Let's see　え～と　See you (soon).またね　　
+【活用】 see - saw - seen",junior_high
+1887,sell,売る、売っている　           　【活用】 sell - sold - sold,junior_high
+1888,send,送る、（手紙などを）出す　　【活用】 send - sent - sent,junior_high
+1889,senior,年上の、上級の　　※senior high school　高校,junior_high
+1890,sense,感覚、センス,junior_high
+1891,separate,引き離す、分ける,junior_high
+1892,September,９月,junior_high
+1893,serious,重大な、（病状などが）重い,junior_high
+1894,serve,（食事・飲み物）を出す,junior_high
+1895,set,"①（名）一式、（テニスなどの）セット
+②（動）～を置く、設置する",junior_high
+1896,seven,７(の),junior_high
+1897,seventeen,１７(の),junior_high
+1898,seventeenth,１７番目（の）,junior_high
+1899,seventh,７番目(の),junior_high
+1900,seventy,７０(の),junior_high
+1901,several,いくつかの、いく人かの,junior_high
+1902,shake,振る、ゆさぶる　　　※shake hands　握手する,junior_high
+1903,shall,（私（たち）は）～するでしょう 　※Shall I (we)～?　～しましょうか,junior_high
+1904,shape,形、姿,junior_high
+1905,share,いっしょに使う、共有する,junior_high
+1906,she,彼女は、彼女が,junior_high
+1907,shine,光る、輝く,junior_high
+1908,ship,船,junior_high
+1909,shirt,ワイシャツ、シャツ,junior_high
+1910,shock,（動）衝撃を与える　　　（名）（精神的な）ショック,junior_high
+1911,shoe,くつ,junior_high
+1912,shop,小売店、店,junior_high
+1913,shopping,買い物　　※go shopping     買い物に行く,junior_high
+1914,short,短い、背が低い,junior_high
+1915,should,～すべきである、～したほうがいい,junior_high
+1916,shoulder,肩,junior_high
+1917,shout,叫ぶ、大声で言う,junior_high
+1918,show,"①（動）見せる、示す   【活用】 show - showed - shown
+②（名）（演芸などの）ショー、劇",junior_high
+1919,shower,シャワー,junior_high
+1920,shrine,神社、神宮、聖堂,junior_high
+1921,shut,閉める　　【活用】 shut- shut - shut　　※shut up ～　～を閉鎖する,junior_high
+1922,shy,恥ずかしがり屋の、内気な,junior_high
+1923,sick,病気の、病気で,junior_high
+1924,side,横、わき、側面,junior_high
+1925,sightseeing,観光,junior_high
+1926,sign,標識、看板,junior_high
+1927,silent,静かな、沈黙の,junior_high
+1928,similar,似た　　　　※be similar to ～　～に似ている,junior_high
+1929,simple,簡単な、わかりやすい,junior_high
+1930,since,～から（ずっと）、～以来（ずっと）,junior_high
+1931,sing,歌う　　【活用】 sing - sang - sung,junior_high
+1932,Singapore,シンガポール,junior_high
+1933,singer,歌う人、歌手,junior_high
+1934,single,たった１つの,junior_high
+1935,sir,（男性に対する改まった呼びかけのことば）,junior_high
+1936,sister,姉妹、姉、妹,junior_high
+1937,sit,座る、座っている　　※sit down 座る　【活用】 sit - sat - sat,junior_high
+1938,site,場所、遺跡,junior_high
+1939,situation,状況、状態,junior_high
+1940,six,６（の）,junior_high
+1941,sixteen,１６（の）,junior_high
+1942,sixteenth,１６番目（の）,junior_high
+1943,sixth,６番目（の）,junior_high
+1944,sixty,６０（の）,junior_high
+1945,size,大きさ、サイズ,junior_high
+1946,skate,スケートですべる、スケートをする,junior_high
+1947,ski,スキーをする,junior_high
+1948,skiing,スキー,junior_high
+1949,skill,技術、技能,junior_high
+1950,skin,皮膚、肌,junior_high
+1951,sky,空,junior_high
+1952,sleep,眠る、睡眠をとる　　【活用】 sleep - slept - slept,junior_high
+1953,sleepy,眠い、眠そうな,junior_high
+1954,slow,遅い、ゆっくりした,junior_high
+1955,slowly,ゆっくりと,junior_high
+1956,small,小さい,junior_high
+1957,smart,利口な、かしこい,junior_high
+1958,smell,においがする,junior_high
+1959,smile,（動）ほほえむ、にっこり笑う　（名）ほほえみ、笑顔,junior_high
+1960,smoke,煙,junior_high
+1961,snack,軽食、おやつ,junior_high
+1962,snake,ヘビ,junior_high
+1963,sneaker,スニーカー,junior_high
+1964,snow,雪（がふる）,junior_high
+1965,snowy,雪の降る、雪の多い,junior_high
+1966,so,"①とても    　※so ～ that … (can't) とても～なので…（できない） 
+②そのように
+③だから、それで",junior_high
+1967,soccer,サッカー,junior_high
+1968,social studies,社会科,junior_high
+1969,society,社会,junior_high
+1970,sofa,ソファー,junior_high
+1971,soft,やわらかい,junior_high
+1972,softball,ソフトボール,junior_high
+1973,solar,太陽の,junior_high
+1974,solution,解決策,junior_high
+1975,solve,解決する,junior_high
+1976,some,"いくつか（の）、いくらか（の）　　
+※Some～,　and others…　～する人がいれば、・・・する人もいる",junior_high
+1977,someday,いつか、そのうち,junior_high
+1978,someone,だれか,junior_high
+1979,something,何か,junior_high
+1980,sometimes,ときどき,junior_high
+1981,somewhere,どこかに、どこかへ、どこかで,junior_high
+1982,son,息子,junior_high
+1983,song,歌,junior_high
+1984,soon,すぐに、まもなく,junior_high
+1985,sore throat,のどの痛み,junior_high
+1986,sorry,すまなく思って、残念に思って　※　I'm sorry. ごめんなさい,junior_high
+1987,sound,"①（動）～に聞こえる　　※sound like～　～のように聞こえる　　　　　　　　　　　　　
+②（名）音",junior_high
+1988,soup,スープ,junior_high
+1989,south,南（の、へ）、南方,junior_high
+1990,souvenir,みやげ,junior_high
+1991,soybean,大豆,junior_high
+1992,space,"①空間　
+②宇宙",junior_high
+1993,Spain,スペイン,junior_high
+1994,Spanish,スペインの、スペイン人（の）、スペイン語（の）,junior_high
+1995,speak,話す　             　　　　　　　　    【活用】 speak - spoke - spoken,junior_high
+1996,speaker,話す人,junior_high
+1997,special,特別な,junior_high
+1998,speech,演説、スピーチ      　※make a speech  スピーチをする,junior_high
+1999,speed,スピード,junior_high
+2000,spell,（～の語）をつづる,junior_high
+2001,spend,（時間を）過ごす、費やす         【活用】 spend - spent - spent,junior_high
+2002,spirit,心、精神、気力、勇気,junior_high
+2003,spoon,スプーン,junior_high
+2004,sport,スポーツ,junior_high
+2005,sports day,運動会、体育の日,junior_high
+2006,spot,場所、地点,junior_high
+2007,spread,広げる、広がる,junior_high
+2008,spring,春,junior_high
+2009,stadium,競技場,junior_high
+2010,stage,舞台、ステージ,junior_high
+2011,stairs,階段（複数形で使う）,junior_high
+2012,stamp,切手,junior_high
+2013,stand,"①（動）立つ、立っている　　　　【活用】 stand - stood - stood
+②（名）（物などを置く）台",junior_high
+2014,star,星,junior_high
+2015,start,始める、始まる,junior_high
+2016,station,駅,junior_high
+2017,stay,滞在（する）、とどまる,junior_high
+2018,steak,ステーキ,junior_high
+2019,steal,盗む　　　　【活用】 steal - stole - stolen,junior_high
+2020,step,"①（名）段階、（屋外の）階段
+②（動）歩く、踏み出す",junior_high
+2021,still,まだ、今でも,junior_high
+2022,stomach,胃、腹,junior_high
+2023,stomachache,胃痛、腹痛,junior_high
+2024,stone,石,junior_high
+2025,stop,（動）止める、やめる　（名）中止、停止,junior_high
+2026,store,店,junior_high
+2027,story,物語、話,junior_high
+2028,straight,まっすぐに,junior_high
+2029,strange,奇妙な,junior_high
+2030,street,通り、道,junior_high
+2031,strong,強い,junior_high
+2032,strongly,強く,junior_high
+2033,student,生徒,junior_high
+2034,study,勉強（する）、研究（する）,junior_high
+2035,style,スタイル、型,junior_high
+2036,subject,教科、科目、（メールなどの）話題,junior_high
+2037,subway,地下鉄,junior_high
+2038,success,成功,junior_high
+2039,successful,成功した,junior_high
+2040,such,このような、そのような,junior_high
+2041,suddenly,急に、突然,junior_high
+2042,suffer,苦しむ,junior_high
+2043,sugar,砂糖,junior_high
+2044,suggest,提案する,junior_high
+2045,summer,夏,junior_high
+2046,sumo wrestler,力士,junior_high
+2047,sun,太陽,junior_high
+2048,Sunday,日曜日,junior_high
+2049,sunflower,ひまわり,junior_high
+2050,sunny,晴れた,junior_high
+2051,sunset,日の入り,junior_high
+2052,supermarket,スーパー（マーケット）,junior_high
+2053,support,支持（する）、支援（する）,junior_high
+2054,sure,"①（副）もちろん
+②（形）確信して  ※I'm sure (that) ～  きっと～だと思う",junior_high
+2055,surprise,（動）驚かす、びっくりさせる　　（名）驚くべきこと,junior_high
+2056,surprised,驚いて  ※be surprised at ～　～に驚く,junior_high
+2057,surprising,驚くべき、すばらしい,junior_high
+2058,surround,囲む、取り巻く,junior_high
+2059,survey,調査,junior_high
+2060,survive,生き残る,junior_high
+2061,sweater,セーター,junior_high
+2062,sweet,"①（名）甘いもの、お菓子
+②（形）甘い、（音・香りなどが）美しい、心地よい  ",junior_high
+2063,swim,泳ぐ　　　　　　　　　【活用】 swim - swam - swum,junior_high
+2064,swimming,水泳、泳ぐこと,junior_high
+2065,Sydney,シドニー,junior_high
+2066,symbol,シンボル（マーク）、しるし,junior_high
+2067,system,方式、体系的方法,junior_high
+2068,table,テーブル,junior_high
+2069,table tennis,卓球,junior_high
+2070,Taiwan,台湾,junior_high
+2071,take,"①（手に）取る、持っていく、連れて行く　※take off ～　～を脱ぐ　
+②乗る　
+③（写真を）撮る
+④（時間が）かかる　
+⑤（～を）買う　※I'll take it. それをいただきます　
+【活用】take - took - taken　",junior_high
+2072,talent,才能,junior_high
+2073,talk,話す　　　　※talk to(with) ～  ～と話す,junior_high
+2074,tall,背が高い,junior_high
+2075,task,仕事、任務、課題,junior_high
+2076,taste,"①（動）～な味がする　　
+②（名）味、味覚",junior_high
+2077,taxi,タクシー,junior_high
+2078,tea,茶、紅茶,junior_high
+2079,teach,教える　　　　【活用】 teach - taught - taught,junior_high
+2080,teacher,先生、教師,junior_high
+2081,team,チーム,junior_high
+2082,teammate,チームメイト,junior_high
+2083,teamwork,チームワーク,junior_high
+2084,tear,涙,junior_high
+2085,technology,科学技術,junior_high
+2086,tell,言う､教える　　　　　【活用】 tell - told - told,junior_high
+2087,temperature,温度、気温,junior_high
+2088,temple,寺,junior_high
+2089,ten,１０（の）,junior_high
+2090,tennis,テニス,junior_high
+2091,tenth,１０番目（の）,junior_high
+2092,terrible,恐ろしい、ひどい,junior_high
+2093,test,試験、テスト,junior_high
+2094,textbook,教科書,junior_high
+2095,Thailand,タイ,junior_high
+2096,than,～よりも,junior_high
+2097,thank,"感謝（する）、ありがとう　　　
+※Thank you for ～.　～をありがとう  
+No, thank you. いいえ、結構です",junior_high
+2098,that,"①（代・形）それ（あれ）、その（あの）　　　※That's right. そのとおり
+②（代）～する（ところの）【前にある名詞を修飾する関係代名詞】
+③（接）～ということ",junior_high
+2099,the,その、あの,junior_high
+2100,theater,劇場,junior_high
+2101,their,彼（彼女）らの、それらの,junior_high
+2102,theirs,彼（彼女）らのもの、それらのもの,junior_high
+2103,them,彼（彼女）を（に）、それらを（に）,junior_high
+2104,themselves,彼（彼女）ら自身        ※by themselves 彼ら自身で,junior_high
+2105,then,それでは、それから、その時,junior_high
+2106,there,そこに（で）　　　　　※over there  向こうに,junior_high
+2107,these,これら（の）,junior_high
+2108,they,彼（彼女）は（が）,junior_high
+2109,thin,やせた,junior_high
+2110,thing,物、事,junior_high
+2111,think,"（～と）考える、（～だと）思う　  ※think of ～　～を思いつく
+　【活用】 think - thought - thought  ",junior_high
+2112,thinking,考え、思考,junior_high
+2113,third,３番目（の）,junior_high
+2114,thirsty,のどがかわいた,junior_high
+2115,thirteen,１３（の）,junior_high
+2116,thirteenth,１３番目（の）,junior_high
+2117,thirtieth,３０番目（の）,junior_high
+2118,thirty,３０（の）,junior_high
+2119,this,これ、この,junior_high
+2120,those,それら（の）、あれら（の）,junior_high
+2121,though,～だけれども,junior_high
+2122,thousand,１，０００（の）,junior_high
+2123,three,３（の）,junior_high
+2124,through,～を通って、～を通して,junior_high
+2125,throw,投げる　　　【活用】 throw - threw - thrown,junior_high
+2126,Thursday,木曜日,junior_high
+2127,ticket,切符、チケット,junior_high
+2128,tie,ネクタイ,junior_high
+2129,tiger,トラ,junior_high
+2130,time,"①時刻、時間　
+②回、度　　
+※for the first time  初めて   for a long time 長い間　　 
+in time 遅れずに、やがて　　on time 時間どおりに",junior_high
+2131,tired,疲れて,junior_high
+2132,to,（行き先・到着点）～へ（に）、（相手・対象）～に,junior_high
+2133,today,今日（は）,junior_high
+2134,together,いっしょに,junior_high
+2135,toilet,トイレ、化粧室,junior_high
+2136,tomato,トマト,junior_high
+2137,tomorrow,明日（は）,junior_high
+2138,tonight,今夜（は）,junior_high
+2139,too,"①（～も）また　
+②あまりに（～）すぎる　
+※Me, too. 私も 　too ～ to …　あまりにも～なので…できない　",junior_high
+2140,tool,手段、道具,junior_high
+2141,tooth,歯　　【複数】 teeth,junior_high
+2142,toothache,歯痛,junior_high
+2143,top,一番上の部分（の）、頂上（の）、てっぺん（の）,junior_high
+2144,total,総計、合計　　　　※in total  合計で、全部で,junior_high
+2145,touch,（動）触れる、触る　（名）接触,junior_high
+2146,tour,旅行、ツアー,junior_high
+2147,tournament,勝ち抜き戦、トーナメント,junior_high
+2148,towel,手拭い、タオル,junior_high
+2149,tower,塔、タワー,junior_high
+2150,town,町,junior_high
+2151,toy,おもちゃ,junior_high
+2152,track,線路 、走路、トラック   　※track and field　 陸上競技,junior_high
+2153,track and field,陸上競技,junior_high
+2154,tradition,伝統,junior_high
+2155,traditional,伝統的な,junior_high
+2156,traffic light,交通信号（灯）,junior_high
+2157,train,電車,junior_high
+2158,training,訓練　　　　※training center  訓練センター,junior_high
+2159,travel,旅行（する）、旅（をする）,junior_high
+2160,treasure,重要なもの、宝物,junior_high
+2161,tree,木,junior_high
+2162,trick,いたずら、芸当、トリック,junior_high
+2163,trip,旅行　　※go on a trip  旅行に出かける,junior_high
+2164,trouble,面倒、困難、悩み　※be in trouble   困っている、悩んでいる,junior_high
+2165,TRUE,本当の、真実の      ※come true  実現する,junior_high
+2166,try,試す、やってみる　※try to ～　 ～しようとする　　try on 試着する,junior_high
+2167,T-shirt,Tシャツ,junior_high
+2168,tube,チューブ（ロンドンの地下鉄のニックネーム）,junior_high
+2169,Tuesday,火曜日,junior_high
+2170,tuna,マグロ,junior_high
+2171,turn,"①（動）曲がる､回る　　　※turn off ～　～を消す　　　
+②（名）番、順番",junior_high
+2172,turtle,カメ,junior_high
+2173,TV,テレビ (Televisionの略）,junior_high
+2174,twelfth,１２番目（の）,junior_high
+2175,twelve,１２（の）,junior_high
+2176,twentieth,２０番目（の）,junior_high
+2177,twenty,２０（の）,junior_high
+2178,twice,２度、２回、２倍(に),junior_high
+2179,two,２つ（の）,junior_high
+2180,type,種類、タイプ,junior_high
+2181,typhoon,台風,junior_high
+2182,uh,あー、えー,junior_high
+2183,umbrella,傘,junior_high
+2184,uncle,おじ（父母の兄弟）,junior_high
+2185,under,～の下に（で）,junior_high
+2186,underground,（イギリスの）地下鉄（アメリカでは、subway）,junior_high
+2187,understand,理解する　　　【活用】 understand - understood - understood,junior_high
+2188,underwear,下着,junior_high
+2189,uniform,制服、ユニフォーム,junior_high
+2190,unique,特有の、独特の,junior_high
+2191,United Kingdom,イギリス（正式国名は、The United Kingdom of Great Britain and Northern Ireland）　※U.K.（UK） （省略語）,junior_high
+2192,United Nations,国際連合　　※U.N.（UN）(省略語),junior_high
+2193,United States,"アメリカ合衆国(正式国名は、the United States of America)　　　　　
+※U.S.（US）又は U.S.A.（USA） （省略語）",junior_high
+2194,university,（総合）大学,junior_high
+2195,until,～（する）まで,junior_high
+2196,up,上へ,junior_high
+2197,us,私たちを（に）,junior_high
+2198,use,使う,junior_high
+2199,used,"①（動）※used to do～　以前はよく～したものだ　　
+②（形）使い古した、中古の",junior_high
+2200,useful,役に立つ,junior_high
+2201,usually,ふつう、たいてい,junior_high
+2202,vacation,休暇、休み,junior_high
+2203,variety,バラエティー、変化に富むこと　※variety show   バラエティー・ショー,junior_high
+2204,vegetable,野菜,junior_high
+2205,vending machine,自動販売機,junior_high
+2206,very,とても、非常に,junior_high
+2207,victory,勝利、優勝,junior_high
+2208,video,ビデオ,junior_high
+2209,video game,テレビゲーム,junior_high
+2210,Vietnam,ベトナム,junior_high
+2211,view,眺め、風景、考え　　　　※point of view  考え方,junior_high
+2212,village,村、村落,junior_high
+2213,violin,バイオリン,junior_high
+2214,visit,訪問（する）,junior_high
+2215,visitor,訪問者、訪問客,junior_high
+2216,voice,声,junior_high
+2217,volleyball,バレーボール,junior_high
+2218,volunteer,"自分から進んでやる人、ボランティア     
+※volunteer work ボランティア活動",junior_high
+2219,wait,待つ　　　　　※wait for ～　～を待つ,junior_high
+2220,wake,起きる、起こす　　※wake ～ up　～を起こす,junior_high
+2221,walk,歩く（こと）､散歩　　　　　　※take a walk  散歩する,junior_high
+2222,wall,壁、塀,junior_high
+2223,wallet,財布,junior_high
+2224,want,"～がほしい　
+※want to ～　～したい　want 人 to～　人に～してもらいたい",junior_high
+2225,war,戦争、戦い,junior_high
+2226,warm,暖かい,junior_high
+2227,was,"～であった、（～に）いた、あった （is, am の過去形）",junior_high
+2228,wash,洗う,junior_high
+2229,waste,むだ（づかい）、浪費（する）,junior_high
+2230,watch,"①（動）見る
+②（名）腕時計",junior_high
+2231,water,水,junior_high
+2232,wave,波,junior_high
+2233,way,"①道　    ※by the way  ところで 　on the way to～　～へ行く途中で
+②方法   ",junior_high
+2234,we,私たちは（が）,junior_high
+2235,weak,弱い、かすかな,junior_high
+2236,wear,身に付けている　　　【活用】 wear - wore - worn,junior_high
+2237,weather,天気,junior_high
+2238,website,ウェブサイト,junior_high
+2239,Wednesday,水曜日,junior_high
+2240,week,週,junior_high
+2241,weekend,週末,junior_high
+2242,welcome,"①（動）歓迎する、（間）ようこそ　　　※Welcome to～へようこそ
+②（形）歓迎される　　　※You're welcome.  どういたしまして",junior_high
+2243,well,"①（形・副）うまい、うまく、上手に、健康で　
+②（間）え～と、さて、ところで",junior_high
+2244,were,～であった、（～に）いた、あった （are の過去形）,junior_high
+2245,west,西（の、へ）、西方,junior_high
+2246,western,西の、（大文字で）西洋の,junior_high
+2247,what,"何､何の､どんな　　　　
+※What a ～!　なんという～　What about ～?　～はどうですか　What's up?  どうしたの　What's wrong ? / What's the matter?  どうかしたの 　What time ～?　何時に～ですか  what to ～ 何を～したらよいか",junior_high
+2248,when,いつ、～するとき　　※when to～　いつ～したらよいか,junior_high
+2249,where,どこに（へ）　　　　※where to～　どこに～したらよいか,junior_high
+2250,which,"①どちら（の）、どれ（どの）　　
+②～する・・・　（名詞＋which～）前にある人以外の名詞を修飾する【関係代名詞】",junior_high
+2251,while,（～する）間に　　※  for a while　しばらくの間,junior_high
+2252,white,白（の）,junior_high
+2253,who,"①だれ  
+②～する・・・　（名詞＋who～）前にある人を表す名詞を修飾する【関係代名詞】",junior_high
+2254,whole,全体の、すべての,junior_high
+2255,whose,だれの,junior_high
+2256,why,なぜ　※Why don't you ～?  ～しませんか、why not? ええ、もちろん,junior_high
+2257,wide,幅の広い、幅が～ある,junior_high
+2258,wife,妻,junior_high
+2259,wild,野生（の）,junior_high
+2260,will,～でしょう、～するつもりである　※Will you～?　～してくれませんか,junior_high
+2261,win,勝つ　　　　　【活用】 win - won - won,junior_high
+2262,wind,風,junior_high
+2263,window,窓,junior_high
+2264,windy,風の強い,junior_high
+2265,wing,翼,junior_high
+2266,winner,勝つ（勝った）人、勝利者,junior_high
+2267,winter,冬,junior_high
+2268,wish,（動）願う　　（名）願い　　　　※make a wish  願いごとをする,junior_high
+2269,with,"①～といっしょに  
+②～のある、～を持った  
+③～を使って",junior_high
+2270,within,～以内で,junior_high
+2271,without,～なしで,junior_high
+2272,woman,（大人の）女性      【複数】 women,junior_high
+2273,wonder,～かなあと思う、～かどうか知りたいと思う,junior_high
+2274,wonderful,すばらしい、とてもすてきな,junior_high
+2275,wood,（切った）木、木材,junior_high
+2276,word,ことば、単語,junior_high
+2277,work,"（動）働く、勉強する　（名）仕事、勉強、作品　　
+※at work 仕事に出かけていて",junior_high
+2278,worker,労働者,junior_high
+2279,world,世界　　※ all over the world 世界中,junior_high
+2280,World Heritage (Site),世界遺産,junior_high
+2281,worried,心配した、不安な,junior_high
+2282,worry,心配する,junior_high
+2283,worse,もっと悪い（下手な、ひどい）　（bad の比較級）,junior_high
+2284,worst,最も悪い（下手な、ひどい） （badの最上級）,junior_high
+2285,would,willの過去形　　※would like to～　～したいと思う　　Would you～?　～してくださいませんか   Would you like～?　～はいかがですか　　Would you like to～?　～したいですか,junior_high
+2286,wow,うわー！わあ！（驚き・喜びを表す）,junior_high
+2287,wrap,包む、包装する,junior_high
+2288,write,書く　　【活用】 write - wrote - written,junior_high
+2289,writer,作家、著者,junior_high
+2290,writing,書くこと、書かれた文字、筆跡,junior_high
+2291,wrong,悪い、調子が悪い、間違っている     ※What's wrong ? どうしたの,junior_high
+2292,year,年、１年　　　　　※ ～year(s) later  ～年後、　～year(s) old ～歳,junior_high
+2293,yellow,黄色（の）,junior_high
+2294,yen,円（日本の通貨単位）,junior_high
+2295,yes,はい、そうです,junior_high
+2296,yesterday,昨日（は）,junior_high
+2297,yet,"①（否定文で）まだ～（しない）　※not～yet　まだ～していない
+②（肯定の疑問文で）もう～したか",junior_high
+2298,you,あなた、あなたたち,junior_high
+2299,young,若い、幼い,junior_high
+2300,your,あなたの、あなたたちの,junior_high
+2301,yours,あなたのもの、あなたたちのもの,junior_high
+2302,yourself,あなた自身を（で、に、が）　　※by yourself 　自分で、あなた自身で,junior_high
+2303,zero,０、ゼロ（の）,junior_high
+2304,zoo,動物園,junior_high
